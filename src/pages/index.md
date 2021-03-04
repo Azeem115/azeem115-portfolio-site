@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Developer. Designer. Your Digital Craftsman
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Developer. Designer. Your Digital Craftsman
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
