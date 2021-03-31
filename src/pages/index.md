@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Developer. Designer. Your Digital Craftsman
-image: /img/home-jumbotron.jpg
+image: /img/164432195_10222279355667731_738148274445571490_n.jpg
 heading: Developer. Designer. Your Digital Craftsman
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
