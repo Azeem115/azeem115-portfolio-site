@@ -6,12 +6,18 @@ heading: Developer. Designer. Your Digital Craftsman
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Hi I'm Azeem.
-  description: >
-    I’m a UI/UX Designer and Developer at WooNinjas. I make the web look awesome!
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  description: >-
+    I make the web look awesome!
+
+
+    With a demonstrated history of working in the industry, I have learnt to combine both the tasks and perform them to my utmost ability to deliver captivating, stunning web experiences. Always on the look for new trends, approaches innovation and challenges in the tech industry especially user interface design, user experience design and design principals. 
+
+
+    A lifelong learner and problem solver, I like building solutions that bring real social impact. 
+
+
+    Currently, I’m a UI/UX Designer and Developer at WooNinjas. 
+description: Developer. Designer. Your Digital Craftsman
 intro:
   blurbs:
     - image: /img/coffee.png
