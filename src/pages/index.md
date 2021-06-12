@@ -1,22 +1,30 @@
 ---
 templateKey: index-page
-title: Developer. Designer. Your Digital Craftsman
+title: Your Digital Craftsman
 image: /img/164432195_10222279355667731_738148274445571490_n.jpg
 heading: Developer. Designer. Your Digital Craftsman
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Hi I'm Azeem.
+  title: Who am I?
   description: >-
-    I make the web look awesome!
+    Hi I’m Azeem! I’m a UI/UX Designer as well as a front-end coder.
 
 
-    With a demonstrated history of working in the industry, I have learnt to combine both the tasks and perform them to my utmost ability to deliver captivating, stunning web experiences. Always on the look for new trends, approaches innovation and challenges in the tech industry especially user interface design, user experience design and design principals. 
+    With a demonstrated history of working in the industry, I have learnt to combine both the tasks and perform them to my utmost ability to deliver captivating, stunning web experiences. 
+
+
+    Simply put, I make the web look awesome!  
+
+
+    Always on the look for new trends, approaches innovation and challenges in the tech industry especially user interface design, user experience design and product design. 
 
 
     A lifelong learner and problem solver, I like building solutions that bring real social impact. 
 
 
-    Currently, I’m a UI/UX Designer and Developer at WooNinjas. 
+    Currently, I’m a UI/UX Designer and Developer at WooNinjas, a cute
+
+    remote-based agency that develops and delivers WordPress products and services.
 description: Developer. Designer. Your Digital Craftsman
 intro:
   blurbs:
