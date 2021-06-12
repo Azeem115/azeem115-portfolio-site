@@ -26,6 +26,7 @@ export const IndexPageTemplate = ({
         backgroundAttachment: `fixed`,
       }}
     >
+      <img src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image} alt="Main featured image"/>
       <div
         style={{
           display: 'flex',
@@ -74,9 +75,6 @@ export const IndexPageTemplate = ({
                   <div className="tile">
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
                 </div>
                 <div className="columns">
                   <div className="column is-12">
@@ -96,7 +94,7 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
+                    My experiences
                   </h3>
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
