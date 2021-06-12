@@ -17,33 +17,19 @@ class BlogRoll extends React.Component {
                 className={`blog-list-item tile is-child`}
               >
                 <header>
-                  {post.frontmatter.featuredimage ? (
-                    <div className="featured-thumbnail">
-                      <PreviewCompatibleImage
-                        imageInfo={{
-                          image: post.frontmatter.featuredimage,
-                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                        }}
-                      />
-                    </div>
-                  ) : null}
-                  <p className="post-meta">
+                  <div className="post-meta">
+                    <span className="subtitle is-size-5 is-block">
+                      {post.frontmatter.date}
+                    </span>
                     <Link
                       className="title has-text-primary is-size-4"
                       to={post.fields.slug}
                     >
                       {post.frontmatter.title}
                     </Link>
-                    <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
-                    </span>
-                  </p>
+                  </div>
                 </header>
                 <p>
-                  {post.excerpt}
-                  <br />
-                  <br />
                   <Link className="button" to={post.fields.slug}>
                     Keep Reading →
                   </Link>
