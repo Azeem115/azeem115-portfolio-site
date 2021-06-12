@@ -20,7 +20,8 @@ export const IndexPageTemplate = ({
       className="full-width-image margin-top-0"
     >
 
-      <img src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image} alt="Main featured image"/>
+      <img className="hero-image-width"
+        src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image} alt="Main featured image"/>
       <div
         style={{
           display: 'flex',
