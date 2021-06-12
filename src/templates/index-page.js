@@ -26,6 +26,7 @@ export const IndexPageTemplate = ({
         backgroundAttachment: `fixed`,
       }}
     >
+
       <img src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image} alt="Main featured image"/>
       <div
         style={{
