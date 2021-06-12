@@ -16,9 +16,12 @@ body
   font-family: $body-font !important
   background-color: $background-color
 
-.navbar .navbar-menu
+.navbar
   box-shadow:none !important
   background-color: $background-color
+
+.navbar .navbar-menu
+  box-shadow:none !important
 
 .content .taglist
   list-style: none
@@ -123,7 +126,7 @@ $menu-label-color: $white-ter
 
 // blog roll
 
-  
+
 .blog-list-item
     border-bottom: 1px solid #222
     padding-bottom: 35px
@@ -136,6 +139,14 @@ $menu-label-color: $white-ter
   flex-basis: 35%;
   margin: 0 1.5em 0 0;
 
+.post-meta 
+  display: flex
+
+.post-meta .subtitle
+  flex: 1 0 20%
+
+.post-meta a.title 
+  flex: 1 0 80%
 
 @import "~bulma"
 
