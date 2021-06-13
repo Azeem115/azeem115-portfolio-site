@@ -23,7 +23,7 @@ class BlogRoll extends React.Component {
                     </span>
                     <h3>
                       <Link
-                        className="title has-text-primary is-size-2"
+                        className="title is-size-2"
                         to={post.fields.slug}
                       >
                         {post.frontmatter.title}
