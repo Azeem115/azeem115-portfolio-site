@@ -60,7 +60,7 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <div className="content">
                   <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
+                    <h1 className="has-text-weight-semibold is-size-1">{mainpitch.title}</h1>
                   </div>
                 </div>
                 <div className="columns">
@@ -68,18 +68,10 @@ export const IndexPageTemplate = ({
                     <p>{description}</p>
                   </div>
                 </div>
-                <Features gridItems={intro.blurbs} />
-                <div className="columns">
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
-                      See all products
-                    </Link>
-                  </div>
-                </div>
                 <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
+                  <h1 className="has-text-weight-semibold is-size-1">
                     My experiences
-                  </h3>
+                  </h1>
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
@@ -88,9 +80,9 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <div className="column is-12 has-text-centered">
-                  <h3 className="has-text-weight-semibold is-size-2">
+                  <h1 className="has-text-weight-semibold is-size-1">
                     Let's say hi
-                  </h3>
+                  </h1>
                   <div className="column is-12 has-text-centered">
                     <img src={contactImage} alt="Memorable image with all the design gurus of Karachi" />
                   </div>
