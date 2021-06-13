@@ -6,10 +6,10 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 import contactImage from '../img/83690163_10218664607741292_6706243901130276864_n.png'
-import facebook from '../img/social/facebook.svg'
-import instagram from '../img/social/instagram.svg'
+import linkedin from '../img/social/linkedin.svg'
 import twitter from '../img/social/twitter.svg'
-import vimeo from '../img/social/vimeo.svg'
+import dribbble from '../img/social/dribbble.svg'
+import github from '../img/social/github.svg'
 
 export const IndexPageTemplate = ({
   image,
@@ -95,14 +95,7 @@ export const IndexPageTemplate = ({
                     <img src={contactImage} alt="Memorable image with all the design gurus of Karachi" />
                   </div>
                   <div className="column is-12 social">
-                    <a title="facebook" href="https://facebook.com">
-                      <img
-                        src={facebook}
-                        alt="Facebook"
-                        style={{ width: '1em', height: '1em' }}
-                      />
-                    </a>
-                    <a title="twitter" href="https://twitter.com">
+                    <a title="twitter" href="https://twitter.com/mrAzeemAbbas">
                       <img
                         className="fas fa-lg"
                         src={twitter}
@@ -110,17 +103,27 @@ export const IndexPageTemplate = ({
                         style={{ width: '1em', height: '1em' }}
                       />
                     </a>
-                    <a title="instagram" href="https://instagram.com">
+                    <a title="linkedin" href="https://www.linkedin.com/in/azeemabbas/">
                       <img
-                        src={instagram}
-                        alt="Instagram"
+                        className="fas fa-lg"
+                        src={linkedin}
+                        alt="LinkedIn"
                         style={{ width: '1em', height: '1em' }}
                       />
                     </a>
-                    <a title="vimeo" href="https://vimeo.com">
+                    <a title="dribbble" href="https://dribbble.com/azeem115">
                       <img
-                        src={vimeo}
-                        alt="Vimeo"
+                        className="fas fa-lg"
+                        src={dribbble}
+                        alt="Dribbble"
+                        style={{ width: '1em', height: '1em' }}
+                      />
+                    </a>
+                    <a title="github" href="https://github.com/Azeem115">
+                      <img
+                        className="fas fa-lg"
+                        src={github}
+                        alt="Github"
                         style={{ width: '1em', height: '1em' }}
                       />
                     </a>
