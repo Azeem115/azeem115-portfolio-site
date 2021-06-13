@@ -60,7 +60,7 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <div className="content">
                   <div className="tile">
-                    <h1 className="has-text-weight-semibold is-size-1">{mainpitch.title}</h1>
+                    <h1 className="has-text-weight-semibold is-size-1 has-text-centered">{mainpitch.title}</h1>
                   </div>
                 </div>
                 <div className="columns">
@@ -69,7 +69,7 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <div className="column is-12">
-                  <h1 className="has-text-weight-semibold is-size-1">
+                  <h1 className="has-text-weight-semibold is-size-1 has-text-centered">
                     My experiences
                   </h1>
                   <BlogRoll />
@@ -80,7 +80,7 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <div className="column is-12 has-text-centered">
-                  <h1 className="has-text-weight-semibold is-size-1">
+                  <h1 className="has-text-weight-semibold is-size-1 has-text-centered">
                     Let's say hi
                   </h1>
                   <div className="column is-12 has-text-centered">
