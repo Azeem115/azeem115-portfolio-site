@@ -5,6 +5,11 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+import contactImage from '../img/83690163_10218664607741292_6706243901130276864_n'
+import facebook from '../img/social/facebook.svg'
+import instagram from '../img/social/instagram.svg'
+import twitter from '../img/social/twitter.svg'
+import vimeo from '../img/social/vimeo.svg'
 
 export const IndexPageTemplate = ({
   image,
@@ -81,6 +86,46 @@ export const IndexPageTemplate = ({
                       Read more
                     </Link>
                   </div>
+                </div>
+                <div className="column is-12">
+                  <h3 className="has-text-weight-semibold is-size-2">
+                    Let's say hi
+                  </h3>
+                  <div className="column is-12 has-text-centered">
+                    <img src={contactImage} alt="Memorable image with all the design gurus of Karachi" />
+                  </div>
+                  <div className="column is-12 social">
+                    <a title="facebook" href="https://facebook.com">
+                      <img
+                        src={facebook}
+                        alt="Facebook"
+                        style={{ width: '1em', height: '1em' }}
+                      />
+                    </a>
+                    <a title="twitter" href="https://twitter.com">
+                      <img
+                        className="fas fa-lg"
+                        src={twitter}
+                        alt="Twitter"
+                        style={{ width: '1em', height: '1em' }}
+                      />
+                    </a>
+                    <a title="instagram" href="https://instagram.com">
+                      <img
+                        src={instagram}
+                        alt="Instagram"
+                        style={{ width: '1em', height: '1em' }}
+                      />
+                    </a>
+                    <a title="vimeo" href="https://vimeo.com">
+                      <img
+                        src={vimeo}
+                        alt="Vimeo"
+                        style={{ width: '1em', height: '1em' }}
+                      />
+                    </a>
+                  </div>
+
                 </div>
               </div>
             </div>
