@@ -1,4 +1,12 @@
 @import "~bulma/sass/utilities/initial-variables"
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@400;500&display=swap');
+
+@font-face
+  font-family: 'Constantia-Font'
+  src: local('Constantia-Font'), 
+  url(./fonts/Constantia-Font.woff) format('truetype'), 
+  url(./fonts/Constantia-Font.woff) format('woff'),
+  url(./fonts/Constantia-Font.woff2) format('woff2'),
 
 // Config vars
 // Kaldi logo brand color: #B70034;
@@ -9,16 +17,24 @@ $primary: $kaldi-red
 $primary-invert: $kaldi-red-invert
 $body-color: #333
 $black: #2b2523
-$body-font: Nunito Sans
 $background-color: #E5E5E5
 
 body 
-  font-family: $body-font !important
+  font-family: 'Red Hat Text', sans-serif
   background-color: $background-color
 
 .navbar
   box-shadow:none !important
   background-color: $background-color !important
+
+h1
+  font-family: 'Constantia-Font'
+
+h2
+  font-family: 'Constantia-Font'
+
+h3
+  font-family: 'Constantia-Font'
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -115,14 +131,11 @@ $menu-label-color: $white-ter
 .social
   padding: 2em
 .social a
-    padding: .5em .5em .3em .5em
-    border-radius: 1em
-    background-color: $white-ter
-    margin: .5em
-    width: 1em
-    height: 1em
-    vertical-align: middle
-    display: inline
+    padding: .5em .5em .3em;
+    border-radius: 1em;
+    margin: 2.5em 0.5em 0;
+    vertical-align: middle;
+    display: inline-block;
 
 // blog roll
 

@@ -87,20 +87,20 @@ export const IndexPageTemplate = ({
                     </Link>
                   </div>
                 </div>
-                <div className="column is-12">
+                <div className="column is-12 has-text-centered">
                   <h3 className="has-text-weight-semibold is-size-2">
                     Let's say hi
                   </h3>
                   <div className="column is-12 has-text-centered">
                     <img src={contactImage} alt="Memorable image with all the design gurus of Karachi" />
                   </div>
-                  <div className="column is-12 social">
+                  <p>{mainpitch.description}</p>
+                  <div className="column is-12 social has-text-centered">
                     <a title="twitter" href="https://twitter.com/mrAzeemAbbas">
                       <img
                         className="fas fa-lg"
                         src={twitter}
                         alt="Twitter"
-                        style={{ width: '1em', height: '1em' }}
                       />
                     </a>
                     <a title="linkedin" href="https://www.linkedin.com/in/azeemabbas/">
@@ -108,7 +108,6 @@ export const IndexPageTemplate = ({
                         className="fas fa-lg"
                         src={linkedin}
                         alt="LinkedIn"
-                        style={{ width: '1em', height: '1em' }}
                       />
                     </a>
                     <a title="dribbble" href="https://dribbble.com/azeem115">
@@ -116,7 +115,6 @@ export const IndexPageTemplate = ({
                         className="fas fa-lg"
                         src={dribbble}
                         alt="Dribbble"
-                        style={{ width: '1em', height: '1em' }}
                       />
                     </a>
                     <a title="github" href="https://github.com/Azeem115">
@@ -124,7 +122,6 @@ export const IndexPageTemplate = ({
                         className="fas fa-lg"
                         src={github}
                         alt="Github"
-                        style={{ width: '1em', height: '1em' }}
                       />
                     </a>
                   </div>
