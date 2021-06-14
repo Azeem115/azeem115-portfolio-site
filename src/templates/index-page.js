@@ -40,7 +40,7 @@ export const IndexPageTemplate = ({
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
-            backgroundColor: 'linear-gradient(90deg, #DD0040 -1.57%, #B70034 98.43%);',
+            background: 'linear-gradient(90deg, #DD0040 -1.57%, #B70034 98.43%);',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
