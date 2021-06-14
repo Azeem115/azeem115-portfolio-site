@@ -40,12 +40,16 @@ export const IndexPageTemplate = ({
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
-            boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+            backgroundColor: 'linear-gradient(90deg, #DD0040 -1.57%, #B70034 98.43%);',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
+            fontFamily: 'Constantia-Font',
+            fontSize: '5rem !important', 
+            width: '5.5em',
+            letterSpacing: '3px',
+            position: 'absolute',
+            left: '2em',
           }}
         >
           {title}
@@ -73,11 +77,6 @@ export const IndexPageTemplate = ({
                     My experiences
                   </h1>
                   <BlogRoll />
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
-                      Read more
-                    </Link>
-                  </div>
                 </div>
                 <div className="column is-12 has-text-centered">
                   <h1 className="has-text-weight-semibold is-size-1 has-text-centered">
