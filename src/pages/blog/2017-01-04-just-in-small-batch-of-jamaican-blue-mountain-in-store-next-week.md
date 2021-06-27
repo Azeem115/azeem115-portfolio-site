@@ -30,14 +30,14 @@ Something as simple as updating a document, adding a new minister, or updating b
 ### The solution
 
 The GOB urgently needed a new digital platform with a design that met the following criteria:
-
-* Easy to maintain, providing an enhanced workflow for site administrators
-  Easy to update and scale alongside the business
-  Offer a seamless content management experience for the editorial team
-  A user-friendly interface to navigate across the site easily 
-  Open source and flexible
-  Competitively priced
-
+<ul>
+<li>Easy to maintain, providing an enhanced workflow for site administrators</li>
+<li>Easy to update and scale alongside the business</li>
+<li>Offer a seamless content management experience for the editorial team</li>
+<li>A user-friendly interface to navigate across the site easily</li> 
+<li>Open source and flexible</li>
+<li>Competitively priced</li>
+</ul>
 After some thought, The GOP identified WordPress , the open-source, fully-featured content management system (CMS), as the ideal platform for launching its new website.
 
 ### How we did it?
