@@ -9,16 +9,14 @@ mainpitch:
   description: Are you into design? Do you love problem solving? Cuz I’m always
     around to meet you beautiful people who are ambitious and determined!
     Connect with me and let’s start the conversation!
-description: Hi I’m Azeem! I’m a UI/UX Designer as well as a front-end
-  coder.  With a demonstrated history of working in the industry, I have learnt
-  to combine both the tasks and perform them to my utmost ability to deliver
-  captivating, stunning web experiences.   Simply put, I make the web look
-  awesome!    Always on the look for new trends, approaches innovation and
-  challenges in the tech industry especially user interface design, user
-  experience design and product design.   A lifelong learner and problem solver,
-  I like building solutions that bring real social impact.   Currently, I’m a
-  UI/UX Designer and Developer at WooNinjas, a cute remote-based agency that
-  develops and delivers WordPress products and services.n
+description: >-
+  Hi I’m Azeem! I’m a UI/UX Designer as well as a front-end coder.  
+
+
+  With a demonstrated history of working in the industry, I have learnt to combine both the tasks and perform them to my utmost ability to deliver captivating, stunning web experiences.   Simply put, I make the web look awesome!    
+
+
+  Always on the look for new trends, approaches innovation and challenges in the tech industry especially user interface design, user experience design and product design.   A lifelong learner and problem solver, I like building solutions that bring real social impact.   Currently, I’m a UI/UX Designer and Developer at WooNinjas, a cute remote-based agency that develops and delivers WordPress products and services.
 intro:
   blurbs:
     - image: /img/coffee.png
