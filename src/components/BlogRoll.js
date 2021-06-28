@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
+import readMore from '../img/read-more-arrow.svg'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
 class BlogRoll extends React.Component {
@@ -33,7 +34,7 @@ class BlogRoll extends React.Component {
                         <Link 
                           className="button" to={post.fields.slug}
                         >
-                          Keep Reading
+                          Keep Reading <span><img className="readmore" src={readMore} alt="Keep Reading" /></span>
                         </Link>
                     </div>
                   </div>
