@@ -27,31 +27,8 @@ export const IndexPageTemplate = ({
 
       <img className="hero-image-width"
         src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image} alt="Main featured image"/>
-      <div
-        style={{
-          display: 'flex',
-          height: '150px',
-          lineHeight: '1',
-          justifyContent: 'space-around',
-          alignItems: 'left',
-          flexDirection: 'column',
-        }}
-      >
-        <h1
-          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
-          style={{
-            background: 'linear-gradient(90deg, #DD0040 -1.57%, #B70034 98.43%);',
-            color: 'white',
-            lineHeight: '1',
-            padding: '0.25em',
-            fontFamily: 'Constantia-Font',
-            fontSize: '5rem !important', 
-            width: '5.5em',
-            letterSpacing: '3px',
-            position: 'absolute',
-            left: '2em',
-          }}
-        >
+      <div className="hero-frame">
+        <h1 className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen hero-heading-h1">
           {title}
         </h1>
       </div>
