@@ -28,7 +28,7 @@ export const IndexPageTemplate = ({
       <img className="hero-image-width"
         src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image} alt="Main featured image"/>
       <div className="hero-frame">
-        <h1 className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen hero-heading-h1">
+        <h1 className="has-text-weight-bold is-size-3-mobile hero-heading-h1">
           {title}
         </h1>
       </div>
