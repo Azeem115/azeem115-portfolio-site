@@ -7,6 +7,12 @@
   url(../fonts/Constantia-Font.woff) format('woff'),
   url(../fonts/Constantia-Font.woff2) format('woff2')
 
+@font-face
+    font-family: 'freightbig_bold'
+    src: local('freightbig_bold'),
+    url('../fonts/freight/freight_big_bold-webfont.woff2') format('woff2'),
+    url('../fonts/freight/freight_big_bold-webfont.woff') format('woff')
+
 // Config vars
 // Kaldi logo brand color: #B70034;
 $kaldi-red: #dd0040;
@@ -16,7 +22,7 @@ $primary: $kaldi-red
 $primary-invert: $kaldi-red-invert
 $body-color: #333
 $black: #2b2523
-$background-color: #E5E5E5
+$background-color: #f7f5f5
 
 body 
   font-family: 'Red Hat Text', sans-serif
@@ -34,21 +40,21 @@ body
   margin-left: 2em
 
 .content h1
-  font-family: 'Constantia-Font'
+  font-family: 'freightbig_bold'
   color: $primary !important
   text-transform: lowercase
   margin-top: 1.6666em
   margin-bottom: 1.6666em !important
 
 .content h2
-  font-family: 'Constantia-Font'
+  font-family: 'freightbig_bold'
   color: $primary !important
   text-transform: lowercase
   margin-top: 1.6666em
   margin-bottom: 1.6666em !important
 
 .content h3
-  font-family: 'Constantia-Font'
+  font-family: 'freightbig_bold'
   color: $primary !important
   text-transform: lowercase
   margin-top: 1.6666em
@@ -201,7 +207,7 @@ $menu-label-color: $white-ter
   flex: 1 0 70%
 
 .post-meta h3
-  font-family: 'Constantia-Font'
+  font-family: 'freightbig_bold'
   margin: 0 !important
 
 .post-meta a.title 
@@ -222,6 +228,12 @@ $menu-label-color: $white-ter
   .blog-list-item header
     display: block
   .blog-list-item .featured-thumbnail
-    text-align: center;
-    max-width: 70%;
-    margin: 0 0 1em;
+    text-align: center
+    max-width: 70%
+    margin: 0 0 1em
+  .full-width-image
+    display: block
+  .post-meta 
+    display: block
+  .is-size-2
+    font-size: 2rem!important
