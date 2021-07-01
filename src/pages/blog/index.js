@@ -20,7 +20,7 @@ export default class BlogIndexPage extends React.Component {
             </div>
           </div>
           <section className="section">
-            <div className="container">
+            <div className="column is-10 is-offset-1">
               <div className="content">
                 <BlogRoll />
               </div>
