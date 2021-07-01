@@ -21,16 +21,17 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
-    <div
-      className="full-width-image margin-top-0"
-    >
-
-      <img className="hero-image-width"
-        src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image} alt="Main featured image"/>
-      <div className="hero-frame">
-        <h1 className="has-text-weight-bold is-size-3-mobile hero-heading-h1">
-          {title}
-        </h1>
+    <div className="full-width-image margin-top-0">
+      <div className="container">
+        <div className="hero-frame">
+          <h1 className="has-text-weight-bold is-size-3-mobile hero-heading-h1">
+            {title}
+          </h1>
+        </div>
+        <div className="hero-image">
+          <img className="hero-image-width"
+            src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image} alt="Main featured image"/>
+        </div>
       </div>
     </div>
     <section className="section section--gradient">
@@ -39,13 +40,9 @@ export const IndexPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
-                <div className="content">
-                  <div className="tile">
-                    <h1 className="has-text-weight-semibold is-size-1 has-text-centered">{mainpitch.title}</h1>
-                  </div>
-                </div>
                 <div className="columns">
                   <div className="column is-12">
+                    <h1 className="has-text-weight-semibold is-size-1 has-text-centered">{mainpitch.title}</h1>
                     {description}
                   </div>
                 </div>
