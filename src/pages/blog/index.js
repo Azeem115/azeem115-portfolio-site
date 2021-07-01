@@ -19,15 +19,14 @@ export default class BlogIndexPage extends React.Component {
                 src='/img/blog-index.jpg' alt="Main featured image"/>
             </div>
           </div>
-        </div>
-  
-        <section className="section">
-          <div className="container">
-            <div className="content">
-              <BlogRoll />
+          <section className="section">
+            <div className="container">
+              <div className="content">
+                <BlogRoll />
+              </div>
             </div>
-          </div>
-        </section>
+          </section>
+        </div>
       </Layout>
     )
   }
