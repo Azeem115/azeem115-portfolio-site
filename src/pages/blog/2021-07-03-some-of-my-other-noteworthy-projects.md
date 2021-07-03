@@ -27,7 +27,7 @@ Having been in the digital industry for almost six years, let me present to you 
 
 4. [Change Clothings](https://changeclothings.com.pk/)
 
-   **Type:** Healthcare, Non-profit organization
+   **Type:** Ecommerce, Fashion
 
 ![Change](/img/change.png "Change Clothings")
 
