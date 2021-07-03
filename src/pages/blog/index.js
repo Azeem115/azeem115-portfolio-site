@@ -11,7 +11,7 @@ export default class BlogIndexPage extends React.Component {
           <div className="full-width-image margin-top-0">
             <div className="hero-frame">
               <h1 className="has-text-weight-bold is-size-3-mobile hero-heading-h1">
-                My Case Studies
+                My Work
               </h1>
             </div>
             <div className="hero-image">
