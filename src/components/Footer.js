@@ -13,8 +13,8 @@ const Footer = class extends React.Component {
             alt="Azeem Abbas"
             style={{ width: '14em', height: '10em' }}
           />
+          <p>&copy; {new Date().getFullYear()} Azeem Abbas. Your Digital Craftsman. Are you done scrolling already?</p>
         </div>
-        <p>&copy; {new Date().getFullYear()} Azeem Abbas. Your Digital Craftsman. Are you done scrolling already?</p>
       </footer>
     )
   }
