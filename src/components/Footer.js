@@ -10,10 +10,11 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered">
           <img
             src={logo}
-            alt="Kaldi"
+            alt="Azeem Abbas"
             style={{ width: '14em', height: '10em' }}
           />
         </div>
+        <p>&copy; {new Date().getFullYear()} Azeem Abbas. Your Digital Craftsman. Are you done scrolling already?</p>
       </footer>
     )
   }
