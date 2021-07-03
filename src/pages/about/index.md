@@ -3,15 +3,15 @@ templateKey: about-page
 path: /about
 title: Who am I?
 ---
-![](/img/83690163_10218664607741292_6706243901130276864_n.jpg)
-
 ### Engineer by thought
 
 ### designer by practice
 
+### pakistani by passport
+
 ### And a dangerous environmentalist that will chase you to end of the earth just for littering.
 
-Hi I’m Azeem. I’m a web UI designer/developer/engineer with five years of experience working in e-commerce, online learning, health, non-profits, health and government. 
+Hi I’m Azeem. and I'm from Karachi, Pakistan. I’m a web UI designer/developer/engineer with five years of experience working in e-commerce, online learning, health, non-profits, health and government. 
 
 I love mixing technology with art. User Interface and visual design are my core strengths. I’m also proficient at UX design and rapidly levelling up. I aspire to become a full stack product designer where I take your story or idea and bring it to life! 
 
@@ -19,7 +19,17 @@ I’m extremely passionate about designing for promising startups and products t
 
 And did I forget to add? I love Coldplay and FC Barcelona
 
-### what I am great at?
+### Where did I study from?
+
+The question everyone's eager to ask! Well, I studied Computer Engineering from Sir Syed University of Engineering. I have also completed four online courses from Udemy and one from Coursera.
+
+### what I am doing right now?
+
+Glad you asked. I'm currently working for WooNinjas, a WordPress plugin extension and customization agency. My job is to push pixels around to see if the interface looks excellent on all viewports.
+
+Check us out at: [wooninjas.com](https://wooninjas.com)
+
+### What I am great at?
 
 * Adobe Illustrator
 
@@ -49,8 +59,6 @@ And did I forget to add? I love Coldplay and FC Barcelona
 
   Visual Design
 
-  English
-
   Technical and Business Communication
 
   Cooking an omlette
@@ -78,9 +86,3 @@ I am not great at them not because I do not know about them but have never pract
   Cooking Biryani and Karahi
 
   Making gol rotis
-
-### what I am doing right now?
-
-Glad you asked. I'm currently working for WooNinjas, a WordPress plugin extension and customization agency. We develop WordPress products and services. My job is to push pixels around to see if the interface is excellent on all viewports.
-
-Check us out at: [wooninjas.com](https://wooninjas.com)
