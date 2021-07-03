@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Making location recognition for FoodPanda drivers more effortless
-date: 2016-12-17T15:04:10.000Z
+date: 2020-10-20T15:04:10.000Z
 description: How one frustrating afternoon ordering food via foodpanda gave me
   an idea to make it easier for drivers to locate their dropoff very easily
 featuredpost: false
