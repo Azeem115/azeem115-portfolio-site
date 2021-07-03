@@ -10,12 +10,20 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   return (
     <section className="section section--gradient">
       <div className="container">
+        <div className="full-width-image margin-top-0">
+          <div className="hero-frame">
+            <h1 className="has-text-weight-bold is-size-3-mobile hero-heading-h1">
+              {title}
+            </h1>
+          </div>
+          <div className="hero-image">
+          <img className="hero-image-width"
+            src='/img/83690163_10218664607741292_6706243901130276864_n.jpg' alt="About Me image"/>
+          </div>
+        </div>
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="section content">
-              <h1 className="title is-size-1 has-text-weight-bold is-bold-light">
-                {title}
-              </h1>
               <PageContent className="content" content={content} />
             </div>
           </div>
