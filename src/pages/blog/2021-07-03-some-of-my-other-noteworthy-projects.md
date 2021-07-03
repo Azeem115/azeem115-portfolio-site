@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Some of my other noteworthy projects
-date: 2021-07-03T09:08:19.450Z
+date: 2020-12-20T09:08:19.450Z
 featuredpost: true
 featuredimage: /img/la-rel-easter-kucglbxjh_o.jpg
 ---
