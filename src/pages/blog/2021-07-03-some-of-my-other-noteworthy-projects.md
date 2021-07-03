@@ -13,17 +13,15 @@ Having been in the digital industry for almost six years, let me present to you 
 
 ![PAFJPMC](/img/paf.png "Patients' Aid Foundation")
 
-2. [Fatimid Foundation](https://fatimid.org/)
+2. [Fatimid Foundation](https://fatimid.org)
 
- **   Type:** Healthcare, Non-profit organization
+**Type:** Healthcare, Non-profit organization
 
 ![Fatimid](/img/fatimid.png "Fatimid Foundation")
 
 3. [Ceylon Jalaya](https://ceylonjalaya.com/)
 
- **\    Type:** Healthcare, Non-profit organization
-
-\    **Country:** Sri Lanka
+**Type:** E-commerce, Food and drink
 
 ![Ceylon Jalaya](/img/ceylon-jalaya.png "Ceylon Jalaya")
 
