@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: My foray into dashboard design and design sprints with TGP
-date: 2017-01-04T15:04:10.000Z
+date: 2019-12-04T15:04:10.000Z
 description: How I helped Hira Saeed conceptualize a new digital platform for
   her online community Tech Geeks Pakistan
 featuredpost: false
