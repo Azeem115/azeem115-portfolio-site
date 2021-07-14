@@ -31,4 +31,12 @@ Having been in the digital industry for almost six years, let me present to you 
 
 ![Change](/img/change.png "Change Clothings")
 
+5. [](https://changeclothings.com.pk/)[BadgeOS](https://badgeos.org/)
+
+ **   Type:** WordPress, Plugin, Gamification
+
+![BadgeOS](/img/badgeos_screenshot.png "BadgeOS")
+
+
+
 All were developed on WordPress except for Change Clothings that was developed on a custom in-house PHP e-commerce platform.
