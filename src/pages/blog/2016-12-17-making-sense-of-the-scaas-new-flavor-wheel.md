@@ -11,25 +11,25 @@ tags:
 ---
 
 
-# The Problem
+## The Problem
 
 It was one afternoon and I was ordering food at my work address using the online food delivery service **foodpanda**. The problem was that the application could not precisely map the name of my location so I had to select some nearby location name and had to write it in the ‘Note to rider’ field provided. But majority of Pakistanis cannot understand English fluently and even typing in Romanized Urdu does not work. **foodpanda** has tried to address this rider + customer discrepancy by introducing the chat and call feature but that too requires effort. 
 
 ![](/img/screenshot_20210228-154424.jpg)
 
-# The Solution
+## The Solution
 
 This gave me an idea. Why not include a feature to add images in the work address description. Users can take a picture of the gate or main entrance of their surroundings and add that in the work or home address. This will ease the burden on riders who are calling and messaging the customer asking for directions and customers who have to unnecessarily step out of the building to locate him.
 
-# How does it work?
+## How does it work?
 
 An image upload option is included when entering the address. Users can take a picture or upload existing ones from the phone gallery.
 
-### BEFORE
+## BEFORE
 
 ![](/img/with_image.png)
 
-### AFTER
+## AFTER
 
 ![](/img/with_uploaded_image.png)
 
