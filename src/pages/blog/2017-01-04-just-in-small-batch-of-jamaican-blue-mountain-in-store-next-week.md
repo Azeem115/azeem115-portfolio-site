@@ -19,7 +19,7 @@ tags:
 ---
 The [official website of the Government of Balochistan](https://balochistan.gov.pk/) is the digital destination for the government of Pakistan’s largest province. The website not only provides a source of government news and updates, it lets government officials and employees access latest documentation, tender notices, budgets, legislation and other legalese. 
 
-### The Challenge
+## The Challenge
 
 But the GOB website was developed on a dated content management system and without mobile users in mind. The bespoke PHP content management system was almost nine years old and showing its age. It posed challenges for editorial teams, were difficult for developer teams to update, and it was felt in the digital age the website was falling short of its expectations.
 
@@ -27,7 +27,7 @@ For editorial teams, simple processes like managing images and writing articles 
 
 Something as simple as updating a document, adding a new minister, or updating brand elements across the site was complex and time-consuming, requiring developer knowledge and duplicated effort across various parts of the site.
 
-### The solution
+## The solution
 
 The GOB urgently needed a new digital platform with a design that met the following criteria:
 <ul>
@@ -40,7 +40,7 @@ The GOB urgently needed a new digital platform with a design that met the follow
 </ul>
 After some thought, The GOP identified WordPress , the open-source, fully-featured content management system (CMS), as the ideal platform for launching its new website.
 
-### How we did it?
+## How we did it?
 
 The government partnered with my company BohraDevelopers and embarked on a journey of the complete revamp of the website from a new design to a new platform. 
 
@@ -50,7 +50,7 @@ The next step was perhaps the most challenging part, the content audit. The cont
 
 After the design was agreed and content audit complete, it was time for the development. My job was to convert the design into a fully functional website. I developed the theme and used WordPress’s famous post type and content field components to structure the content. I made sure it will be easy for the editorial team to create new or update and existing pages easily with little effort. I created four custom post types, Budgets, Departments, Tenders and PSDP and assigned each a custom taxonomy. My knowledge of WordPress’s content reference was a real deal and we managed to develop the site using less than thirty plugins.
 
-### the result
+## the result
 
 ![](/img/balochistan.gov.pk.png)
 
