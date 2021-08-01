@@ -1,11 +1,6 @@
 import React from 'react'
 import { navigate } from 'gatsby-link'
 import Layout from '../../components/Layout'
-import contactImage from '../img/83690163_10218664607741292_6706243901130276864_n.png'
-import linkedin from '../img/social/linkedin.svg'
-import twitter from '../img/social/twitter.svg'
-import dribbble from '../img/social/dribbble.svg'
-import github from '../img/social/github.svg'
 
 function encode(data) {
   return Object.keys(data)
@@ -114,43 +109,6 @@ export default class Index extends React.Component {
                   </button>
                 </div>
               </form>
-            </div>
-            <div className="column is-12 has-text-centered">
-              <h1 className="has-text-centered">Let's say hi</h1>
-                <div className="column is-12 has-text-centered">
-                  <img src={contactImage} alt="Memorable image with all the design gurus of Karachi" />
-                </div>
-                <p>{mainpitch.description}</p>
-                <div className="column is-12 social has-text-centered">
-                  <a title="twitter" href="https://twitter.com/mrAzeemAbbas">
-                    <img
-                      className="fas fa-lg"
-                      src={twitter}
-                      alt="Twitter"
-                    />
-                  </a>
-                  <a title="linkedin" href="https://www.linkedin.com/in/azeemabbas/">
-                    <img
-                      className="fas fa-lg"
-                      src={linkedin}
-                      alt="LinkedIn"
-                    />
-                  </a>
-                  <a title="dribbble" href="https://dribbble.com/azeem115">
-                    <img
-                      className="fas fa-lg"
-                      src={dribbble}
-                      alt="Dribbble"
-                    />
-                  </a>
-                  <a title="github" href="https://github.com/Azeem115">
-                    <img
-                      className="fas fa-lg"
-                      src={github}
-                      alt="Github"
-                    />
-                  </a>
-                </div>
             </div>
           </div>
         </section>
