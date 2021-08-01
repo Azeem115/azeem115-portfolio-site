@@ -50,28 +50,27 @@ body
   font-family: 'freightbig_bold'
   color: $primary !important
   text-transform: lowercase
-  margin-top: 1.6666em
-  margin-bottom: 1.6666em !important
 
 .content h2
   font-family: 'freightbig_bold'
   color: $primary !important
   text-transform: lowercase
-  margin-top: 1.6666em
-  margin-bottom: 1.6666em !important
 
 .content h3
   font-family: 'freightbig_bold'
   color: $primary !important
   text-transform: lowercase
-  margin-top: 1.6666em
-  margin-bottom: 1.6666em !important
+
+.landing_page h1 
+  font-size: 4rem
+  line-height: 0
+  margin: 0.6em 0 1.6em 0
 
 .navbar .navbar-menu
   box-shadow:none !important
 
-.navbar-item:hover
-  color: #DD0040
+a.navbar-item:hover
+    color: #dd0040
 
 .content .taglist
   list-style: none
@@ -117,6 +116,7 @@ body
 .hero-image-width
   max-width: 927px
   width: 100%
+  clip-path: polygon(15% 0, 100% 1%, 100% 83%, 85% 100%, 0 100%, 0 20%)
 
 .hero-heading-h1
   background: linear-gradient(90deg, #DD0040 -1.57%, #B70034 98.43%)
@@ -129,6 +129,7 @@ body
   letter-spacing: 3px
   position: absolute
   left: 2em
+  z-index: 999
 
 .hero-frame
   display: flex

@@ -11,9 +11,11 @@ const Footer = class extends React.Component {
           <img
             src={logo}
             alt="Azeem Abbas"
-            style={{ width: '14em', height: '10em' }}
+            style={{ width: '14em', height: '10em', marginBottom: '1em' }}
           />
-          <p>&copy; {new Date().getFullYear()} Azeem Abbas. Your Digital Craftsman. Are you done scrolling already?</p>
+          <p 
+            style={{ fontSize: '16px' }}
+          >&copy; {new Date().getFullYear()} Azeem Abbas. Your Digital Craftsman. Are you done scrolling already?</p>
         </div>
       </footer>
     )

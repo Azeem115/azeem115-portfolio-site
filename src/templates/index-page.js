@@ -37,23 +37,23 @@ export const IndexPageTemplate = ({
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
-          <div className="columns">
+          <div className="landing_page">
             <div className="column is-10 is-offset-1">
               <div className="content">
                 <div className="columns">
                   <div className="column is-12">
-                    <h1 className="has-text-weight-semibold is-size-1 has-text-centered">{mainpitch.title}</h1>
+                    <h1 className="has-text-centered">{mainpitch.title}</h1>
                     {description}
                   </div>
                 </div>
                 <div className="column is-12">
-                  <h1 className="has-text-weight-semibold is-size-1 has-text-centered">
+                  <h1 className="has-text-centered">
                     My experiences
                   </h1>
                   <BlogRoll />
                 </div>
                 <div className="column is-12 has-text-centered">
-                  <h1 className="has-text-weight-semibold is-size-1 has-text-centered">
+                  <h1 className="has-text-centered">
                     Let's say hi
                   </h1>
                   <div className="column is-12 has-text-centered">
