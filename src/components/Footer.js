@@ -11,7 +11,7 @@ const Footer = class extends React.Component {
           <img
             src={logo}
             alt="Azeem Abbas"
-            style={{ width: '14em', height: '10em', marginBottom: '1em' }}
+            style={{ width: '14em', height: '5em', marginBottom: '1em' }}
           />
           <p 
             style={{ fontSize: '16px' }}
