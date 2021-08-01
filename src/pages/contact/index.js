@@ -38,7 +38,6 @@ export default class Index extends React.Component {
       <Layout>
         <section className="section">
           <div className="container content">
-            <div className="columns">
               <div className="column is-10 is-offset-1">
                 <h1 className="title has-text-weight-bold is-bold-light">Get In Touch</h1>
               </div>
@@ -109,7 +108,6 @@ export default class Index extends React.Component {
                   </button>
                 </div>
               </form>
-            </div>
           </div>
         </section>
       </Layout>
