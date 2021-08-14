@@ -34,57 +34,33 @@ Check us out at: [wooninjas.com](https://wooninjas.com)
 ### What I am great at?
 
 * Adobe Illustrator
-
-  Adobe Photoshop
-
-  Adobe XD
-
-  Figma
-
-  HTML5
-
-  CSS
-
-  Responsive Web Design
-
-  CSS3
-
-  jQuery
-
-  WordPress
-
-  Joomla
-
-  Drupal 8
-
-  Interactive Prototyping
-
-  Visual Design
-
-  Technical and Business Communication
-
-  Cooking an omlette
-
-  Pouring two packets of Knorr Chatpatta noodles in a pot of boiling water
-
+* Adobe Photoshop
+* Adobe XD
+* Figma
+* HTML5
+* CSS
+* Responsive Web Design
+* CSS3
+* jQuery
+* WordPress
+* Joomla
+* Drupal 8
+* Interactive Prototyping
+* Visual Design
+* Technical and Business Communication
+* Cooking an omlette
+<div class="_not-good-at">
 ### what I am not great at?
 
 I am not great at them not because I do not know about them but have never practiced them professionally
 
 * UX Research
-
-  Affinity Diagram
-
-  Information Architecture
-
-  Customer Journey Mapping
-
-  Sketching
-
-  Wireframing
-
-  User psychology
-
-  Cooking Biryani and Karahi
-
-  Making gol rotis
+* Affinity Diagram
+* Information Architecture
+* Customer Journey Mapping
+* Sketching
+* Wireframing
+* User psychology
+* Cooking Biryani and Karahi
+* Making gol rotis
+</div>
