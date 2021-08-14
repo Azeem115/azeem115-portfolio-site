@@ -49,7 +49,7 @@ Check us out at: [wooninjas.com](https://wooninjas.com)
 * Visual Design
 * Technical and Business Communication
 * Cooking an omlette
-<div class="_not-good-at">
+
 ### what I am not great at?
 
 I am not great at them not because I do not know about them but have never practiced them professionally
@@ -63,4 +63,3 @@ I am not great at them not because I do not know about them but have never pract
 * User psychology
 * Cooking Biryani and Karahi
 * Making gol rotis
-</div>
