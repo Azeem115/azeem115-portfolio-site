@@ -21,7 +21,7 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
-    <div className="container">
+    <div className="container hero_section">
       <div className="full-width-image margin-top-0">
         <div className="hero-frame">
           <h1 className="has-text-weight-bold is-size-3-mobile hero-heading-h1">
