@@ -54,8 +54,6 @@ After the session, and a few rounds of meetings with Hira and the two developers
 
 ## What I learn
 
-This has to be one of the most ambitious projects I had ever taken. Not only I learnt different features of Adobe XD but I learnt the values of empathy and collaboration. There was a tendency for the project to get caught in design or development hell but I made sure the design process went smoothly without any glitches. I firmly believe I implemented the principles of design practice wholeheartedly with whatever knowledge I had equipped over the past two years.
-
-
+Unfortunately this product never shipped so it never saw the light of day. Although it did not make any impact, I consider it to be one of the most ambitious projects I had ever taken. Not only I learnt different features of Adobe XD but I learnt the values of empathy and collaboration. There was a tendency for the project to get caught in design or development hell but I made sure the design process went smoothly without any glitches. I firmly believe I implemented the principles of design practice wholeheartedly with whatever knowledge I had equipped over the past two years.
 
 > **A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away. – Antoine De Saint-Exupery**
