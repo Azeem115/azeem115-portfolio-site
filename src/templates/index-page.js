@@ -59,7 +59,7 @@ export const IndexPageTemplate = ({
                   <div className="column is-12 has-text-centered">
                     <img src={contactImage} alt="Memorable image with all the design gurus of Karachi" />
                   </div>
-                  <p>{mainpitch.description}</p>
+                  <p className="mainpitch-desc">{mainpitch.description}</p>
                   <div className="column is-12 social has-text-centered">
                     <a title="twitter" href="https://twitter.com/mrAzeemAbbas">
                       <img
