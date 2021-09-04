@@ -24,8 +24,9 @@ export const IndexPageTemplate = ({
     <div className="container hero_section">
       <div className="full-width-image margin-top-0">
         <div className="hero-frame">
-          <h1  data-sal="slide-up"
-            data-sal-duration="2000" 
+          <h1  
+            data-sal="slide-left"
+            data-sal-duration="1000" 
             data-sal-delay="300"
             data-sal-easing="ease" 
             className="has-text-weight-bold is-size-3-mobile hero-heading-h1">
@@ -46,25 +47,55 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <div className="columns">
                   <div className="column is-12">
-                    <h1 className="has-text-centered">{mainpitch.title}</h1>
-                    {description}
+                    <h1
+                      data-sal="slide-right" 
+                      data-sal-duration="1000" 
+                      data-sal-delay="300"
+                      className="has-text-centered">{mainpitch.title}</h1>
+                      <div
+                        data-sal="slide-right" 
+                        data-sal-duration="1000" 
+                        data-sal-delay="300"
+                      >
+                        {description}
+                      </div>
                   </div>
                 </div>
                 <div className="column is-12">
-                  <h1 className="has-text-centered">
+                  <h1 
+                    data-sal="slide-left" 
+                    data-sal-duration="1000" 
+                    data-sal-delay="300"
+                  className="has-text-centered">
                     My experiences
                   </h1>
                   <BlogRoll />
                 </div>
                 <div className="column is-12 has-text-centered">
-                  <h1 className="has-text-centered">
+                  <h1 
+                    data-sal="slide-up" 
+                    data-sal-duration="1000" 
+                    data-sal-delay="300"
+                  className="has-text-centered">
                     Let's say hi
                   </h1>
-                  <div className="column is-12 has-text-centered">
+                  <div 
+                     data-sal="slide-up" 
+                     data-sal-duration="1000" 
+                     data-sal-delay="300"
+                  className="column is-12 has-text-centered">
                     <img src={contactImage} alt="Memorable image with all the design gurus of Karachi" />
                   </div>
-                  <p className="mainpitch-desc">{mainpitch.description}</p>
-                  <div className="column is-12 social has-text-centered">
+                  <p 
+                     data-sal="slide-up" 
+                     data-sal-duration="1000" 
+                     data-sal-delay="300"
+                  className="mainpitch-desc">{mainpitch.description}</p>
+                  <div 
+                     data-sal="slide-up" 
+                     data-sal-duration="1000" 
+                     data-sal-delay="300"
+                  className="column is-12 social has-text-centered">
                     <a title="twitter" href="https://twitter.com/mrAzeemAbbas">
                       <img
                         className="fas fa-lg"
