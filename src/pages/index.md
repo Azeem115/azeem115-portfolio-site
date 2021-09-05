@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Your Digital Craftsman
-image: /img/164432195_10222279355667731_738148274445571490_n.png
+image: /img/164432195_10222279355667731_738148274445571490_02.png
 heading: Developer. Designer. Your Digital Craftsman
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
