@@ -1,6 +1,5 @@
 backend:
   name: git-gateway
-  repo: Azeem115/azeem115-portfolio-site
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
