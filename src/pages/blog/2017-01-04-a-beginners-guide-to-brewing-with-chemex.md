@@ -26,9 +26,9 @@ Hira wanted her community to evolve and have a dedicated web-based platform for 
 
 The task was to design what the new interface of this dashboard was going to look like. It was the biggest challenge I had ever faced because I had never designed dashboards before. As the only designer in the team of just four people, I was responsible from ideation to prototyping to delivering the final design before the hand-off.
 
-I worked with Hira on the appearance of the platform. She briefed me about the functioning of the platform and its user flow. This platform was to have a single admin where he or she could create groups and users can simply join them. Once they joined in, they can post questions and queries and other members can answer them, upvote or downvote them. The user flow is much similar to existing platforms like StackOverflow, Quora and Reddit.
+I worked with Hira on the appearance of the platform. She briefed me about the functionality of the platform and its user flow. This platform was to have a single admin who could create groups and users can join them. Once they joined in, they can post questions and queries and other members can answer them, upvote or downvote them. The user flow is much similar to existing platforms like StackOverflow, Quora and Reddit.
 
-In this particular case no UX steps like research methodologies, wireframes, ideation, or prototyping were carried out. Because the color theme and the typography was already agreed, I jumped straight into visual design process and created it on Adobe XD.
+I researched existing community platforms like Stack Overflow, Reddit , Quora and Discord, how they functioned as well searched for design inspirations on Dribbble. Following the research phase, I created a rough wireframe of how different components will be structured and content organized there. Because the color theme and the typography was already agreed, the visual design process did not take that long and within three weeks the final design was delivered using Adobe XD.
 
 ## How we did it
 
@@ -38,7 +38,7 @@ This was another challenge for me for I had never facilitated a design sprint be
 
 ![](/img/image005.png)
 
-The sprint was finally held on January 1st 2020 and it lasted two and a half hours. We were able to identify the key pain points and add new features to the platform.
+The sprint was finally held on January 1st 2020 and it lasted two and a half hours. We were able to identify the key pain points, change colors where needed and add new or update existing features to the platform.
 
 ![](/img/image006.jpg)
 
