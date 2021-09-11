@@ -51,11 +51,13 @@ export const IndexPageTemplate = ({
                       data-sal="slide-right" 
                       data-sal-duration="1000" 
                       data-sal-delay="300"
+                      data-sal-easing="ease"
                       className="has-text-centered">{mainpitch.title}</h1>
                       <div
                         data-sal="slide-right" 
                         data-sal-duration="1000" 
                         data-sal-delay="300"
+                        data-sal-easing="ease"
                       >
                         {description}
                       </div>
@@ -66,6 +68,7 @@ export const IndexPageTemplate = ({
                     data-sal="slide-left" 
                     data-sal-duration="1000" 
                     data-sal-delay="300"
+                    data-sal-easing="ease"
                   className="has-text-centered">
                     My experiences
                   </h1>
