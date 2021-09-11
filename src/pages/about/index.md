@@ -37,6 +37,8 @@ Check us out at: [wooninjas.com](https://wooninjas.com)
 * Adobe Photoshop
 * Adobe XD
 * Figma
+* Wireframing
+* Interactive Prototyping
 * HTML5
 * CSS
 * Responsive Web Design
@@ -45,10 +47,10 @@ Check us out at: [wooninjas.com](https://wooninjas.com)
 * WordPress
 * Joomla
 * Drupal 8
-* Interactive Prototyping
 * Visual Design
 * Technical and Business Communication
 * Cooking an omlette
+* Boiling noodles
 
 ### what I am not great at?
 
@@ -58,8 +60,7 @@ I am not great at them not because I do not know about them but have never pract
 * Affinity Diagram
 * Information Architecture
 * Customer Journey Mapping
-* Sketching
-* Wireframing
 * User psychology
 * Cooking Biryani and Karahi
-* Making gol rotis
+* Baking a pie
+* How to use the washing machine
