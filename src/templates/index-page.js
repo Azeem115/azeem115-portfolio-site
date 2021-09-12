@@ -92,13 +92,13 @@ export const IndexPageTemplate = ({
           <div className="hero-frame">
             <div className="contact_info-wrapper">    
               <p 
-                data-sal="slide-up" 
+                data-sal="slide-left" 
                 data-sal-duration="1000" 
                 data-sal-delay="300"
                 className="mainpitch-desc">{mainpitch.description}
               </p>
               <div 
-                data-sal="slide-up" 
+                data-sal="slide-right" 
                 data-sal-duration="1000" 
                 data-sal-delay="300"
                 className="column is-12 social has-text-centered">

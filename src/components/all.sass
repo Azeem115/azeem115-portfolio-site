@@ -123,6 +123,7 @@ a.navbar-item:hover
 .hero-image-width
   max-width: 780px
   width: 100%
+  clip-path: polygon(15% 0, 70% 0%, 99% 0, 100% 85%, 85% 100%, 30% 100%, 0 100%, 0 17%)
 
 .hero-heading-h1
   background: linear-gradient(90deg, #DD0040 -1.57%, #B70034 98.43%)
@@ -227,11 +228,15 @@ $menu-label-color: $white-ter
   display: none
 
 .contact_info-wrapper 
-    position: absolute
-    width: 23.5em
-    background: #fff
-    padding: .5em 2em
-    left: 4em
+  position: absolute
+  width: 23.5em
+  background: #fff
+  padding: .5em 2em
+  left: 4em
+  z-index: 9
+
+.contact_info-wrapper p
+  line-height: 1.4
 
 .section 
   padding: 0 0 5.5em !important
