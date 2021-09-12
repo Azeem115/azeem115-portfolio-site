@@ -45,13 +45,12 @@ export const IndexPageTemplate = ({
           <div className="content">
             <div className="columns">
               <div className="column is-12">
-                {/* <h1
+                <h1
                   data-sal="slide-right" 
                   data-sal-duration="1000" 
                   data-sal-delay="300"
                   data-sal-easing="ease"
-                  className="has-text-centered">{mainpitch.title}
-                </h1> */}
+                  className="has-text-centered">{mainpitch.title}</h1>
                 <div
                   data-sal="slide-right" 
                   data-sal-duration="1000" 
@@ -72,7 +71,15 @@ export const IndexPageTemplate = ({
           <div className="content">
             <div className="columns">
               <div className="column is-12">
-                <BlogRoll />
+                <h1 
+                  data-sal="slide-left" 
+                  data-sal-duration="1000" 
+                  data-sal-delay="300"
+                  data-sal-easing="ease"
+                  className="has-text-centered">
+                    My experiences
+                </h1>
+                  <BlogRoll />
               </div>
             </div>
           </div>
@@ -85,6 +92,13 @@ export const IndexPageTemplate = ({
           <div className="content">
             <div className="columns">
               <div className="column is-12 has-text-centered">
+                <h1 
+                  data-sal="slide-up" 
+                  data-sal-duration="1000" 
+                  data-sal-delay="300"
+                  className="has-text-centered">
+                    Let's say hi
+                </h1>
                 <div 
                   data-sal="slide-up" 
                   data-sal-duration="1000" 

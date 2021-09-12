@@ -223,6 +223,9 @@ $menu-label-color: $white-ter
 .section 
   padding: 0 0 5.5em !important
 
+section.who_am_i h1, section.my_experiences h1, section.lets_say_hi h1
+  display: none
+
 section.who_am_i, section.my_experiences, section.lets_say_hi 
   position: relative
 
@@ -329,6 +332,8 @@ section.lets_say_hi:before
     top: 2.5em
 
 +mobile
+  section.who_am_i h1, section.my_experiences h1, section.lets_say_hi h1
+    display: block
   .blog-list-item header
     display: block
   .blog-list-item .featured-thumbnail
