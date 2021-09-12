@@ -87,7 +87,7 @@ export const IndexPageTemplate = ({
       </div> 
     </section>
     <section className="section section--gradient lets_say_hi">
-      <div className="container hero_section">
+      <div className="container hero_section contact-info-lg">
         <div className="full-width-image margin-top-0">
           <div className="hero-frame">
             <div className="contact_info-wrapper">    
@@ -139,7 +139,7 @@ export const IndexPageTemplate = ({
           </div>
         </div>
       </div>
-      <div className="container">
+      <div className="container contact_info-mobile">
         <div className="column is-10 is-offset-1">
           <div className="content">
             <div className="columns">
