@@ -39,56 +39,73 @@ export const IndexPageTemplate = ({
         </div>
       </div>
     </div>
-    <section className="section section--gradient">
+    <section className="section section--gradient who_am_i">
       <div className="container">
-        <div className="section">
-          <div className="landing_page">
-            <div className="column is-10 is-offset-1">
-              <div className="content">
-                <div className="columns">
-                  <div className="column is-12">
-                    <h1
-                      data-sal="slide-right" 
-                      data-sal-duration="1000" 
-                      data-sal-delay="300"
-                      data-sal-easing="ease"
-                      className="has-text-centered">{mainpitch.title}</h1>
-                      <div
-                        data-sal="slide-right" 
-                        data-sal-duration="1000" 
-                        data-sal-delay="300"
-                        data-sal-easing="ease"
-                      >
-                        {description}
-                      </div>
-                  </div>
+        <div className="column is-10 is-offset-1">
+          <div className="content">
+            <div className="columns">
+              <div className="column is-12">
+                <h1
+                  data-sal="slide-right" 
+                  data-sal-duration="1000" 
+                  data-sal-delay="300"
+                  data-sal-easing="ease"
+                  className="has-text-centered">{mainpitch.title}</h1>
+                <div
+                  data-sal="slide-right" 
+                  data-sal-duration="1000" 
+                  data-sal-delay="300"
+                  data-sal-easing="ease"
+                  >
+                  {description}
                 </div>
-                <div className="column is-12">
-                  <h1 
-                    data-sal="slide-left" 
-                    data-sal-duration="1000" 
-                    data-sal-delay="300"
-                    data-sal-easing="ease"
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section className="section section--gradient my_experiences">
+      <div className="container">
+        <div className="column is-10 is-offset-1">
+          <div className="content">
+            <div className="columns">
+              <div className="column is-12">
+                <h1 
+                  data-sal="slide-left" 
+                  data-sal-duration="1000" 
+                  data-sal-delay="300"
+                  data-sal-easing="ease"
                   className="has-text-centered">
                     My experiences
-                  </h1>
+                </h1>
                   <BlogRoll />
-                </div>
-                <div className="column is-12 has-text-centered">
-                  <h1 
-                    data-sal="slide-up" 
-                    data-sal-duration="1000" 
-                    data-sal-delay="300"
+              </div>
+            </div>
+          </div>
+        </div>
+      </div> 
+    </section>
+    <section className="section section--gradient lets_say_hi">
+      <div className="container">
+        <div className="column is-10 is-offset-1">
+          <div className="content">
+            <div className="columns">
+              <div className="column is-12 has-text-centered">
+                <h1 
+                  data-sal="slide-up" 
+                  data-sal-duration="1000" 
+                  data-sal-delay="300"
                   className="has-text-centered">
                     Let's say hi
-                  </h1>
-                  <div 
-                     data-sal="slide-up" 
-                     data-sal-duration="1000" 
-                     data-sal-delay="300"
+                </h1>
+                <div 
+                  data-sal="slide-up" 
+                  data-sal-duration="1000" 
+                  data-sal-delay="300"
                   className="column is-12 has-text-centered">
-                    <img src={contactImage} alt="Memorable image with all the design gurus of Karachi" />
-                  </div>
+                  <img src={contactImage} alt="Memorable image with all the design gurus of Karachi" />
+                </div>
                   <p 
                      data-sal="slide-up" 
                      data-sal-duration="1000" 
@@ -99,36 +116,34 @@ export const IndexPageTemplate = ({
                      data-sal-duration="1000" 
                      data-sal-delay="300"
                   className="column is-12 social has-text-centered">
-                    <a title="twitter" href="https://twitter.com/mrAzeemAbbas">
-                      <img
-                        className="fas fa-lg"
-                        src={twitter}
-                        alt="Twitter"
-                      />
-                    </a>
-                    <a title="linkedin" href="https://www.linkedin.com/in/azeemabbas/">
-                      <img
-                        className="fas fa-lg"
-                        src={linkedin}
-                        alt="LinkedIn"
-                      />
-                    </a>
-                    <a title="dribbble" href="https://dribbble.com/azeem115">
+                  <a title="twitter" href="https://twitter.com/mrAzeemAbbas">
+                    <img
+                      className="fas fa-lg"
+                      src={twitter}
+                      alt="Twitter"
+                    />
+                  </a>
+                  <a title="linkedin" href="https://www.linkedin.com/in/azeemabbas/">
+                    <img
+                      className="fas fa-lg"
+                      src={linkedin}
+                      alt="LinkedIn"
+                    />
+                  </a>
+                  <a title="dribbble" href="https://dribbble.com/azeem115">
                       <img
                         className="fas fa-lg"
                         src={dribbble}
                         alt="Dribbble"
                       />
-                    </a>
-                    <a title="github" href="https://github.com/Azeem115">
-                      <img
-                        className="fas fa-lg"
-                        src={github}
-                        alt="Github"
-                      />
-                    </a>
-                  </div>
-
+                  </a>
+                  <a title="github" href="https://github.com/Azeem115">
+                    <img
+                      className="fas fa-lg"
+                      src={github}
+                      alt="Github"
+                    />
+                  </a>
                 </div>
               </div>
             </div>
