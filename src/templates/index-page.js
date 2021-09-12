@@ -87,6 +87,56 @@ export const IndexPageTemplate = ({
       </div> 
     </section>
     <section className="section section--gradient lets_say_hi">
+      <div className="container hero_section">
+        <div className="full-width-image margin-top-0">
+          <div className="hero-frame">
+            <p 
+              data-sal="slide-up" 
+              data-sal-duration="1000" 
+              data-sal-delay="300"
+              className="mainpitch-desc">{mainpitch.description}
+            </p>
+            <div 
+              data-sal="slide-up" 
+              data-sal-duration="1000" 
+              data-sal-delay="300"
+              className="column is-12 social has-text-centered">
+                <a title="twitter" href="https://twitter.com/mrAzeemAbbas">
+                  <img
+                    className="fas fa-lg"
+                    src={twitter}
+                    alt="Twitter"
+                  />
+                </a>
+                <a title="linkedin" href="https://www.linkedin.com/in/azeemabbas/">
+                  <img
+                    className="fas fa-lg"
+                    src={linkedin}
+                    alt="LinkedIn"
+                  />
+                </a>
+                <a title="dribbble" href="https://dribbble.com/azeem115">
+                  <img
+                    className="fas fa-lg"
+                    src={dribbble}
+                    alt="Dribbble"
+                  />
+                </a>
+                <a title="github" href="https://github.com/Azeem115">
+                  <img
+                    className="fas fa-lg"
+                    src={github}
+                    alt="Github"
+                  />
+                </a>
+            </div>
+          </div>
+          <div className="hero-image">
+            <img className="hero-image-width" 
+              src={contactImage} alt="Memorable image with all the design gurus of Karachi" />
+          </div>
+        </div>
+      </div>
       <div className="container">
         <div className="column is-10 is-offset-1">
           <div className="content">
@@ -115,35 +165,35 @@ export const IndexPageTemplate = ({
                      data-sal="slide-up" 
                      data-sal-duration="1000" 
                      data-sal-delay="300"
-                  className="column is-12 social has-text-centered">
-                  <a title="twitter" href="https://twitter.com/mrAzeemAbbas">
-                    <img
-                      className="fas fa-lg"
-                      src={twitter}
-                      alt="Twitter"
-                    />
-                  </a>
-                  <a title="linkedin" href="https://www.linkedin.com/in/azeemabbas/">
-                    <img
-                      className="fas fa-lg"
-                      src={linkedin}
-                      alt="LinkedIn"
-                    />
-                  </a>
-                  <a title="dribbble" href="https://dribbble.com/azeem115">
+                     className="column is-12 social has-text-centered">
+                    <a title="twitter" href="https://twitter.com/mrAzeemAbbas">
                       <img
                         className="fas fa-lg"
-                        src={dribbble}
-                        alt="Dribbble"
+                        src={twitter}
+                        alt="Twitter"
                       />
-                  </a>
-                  <a title="github" href="https://github.com/Azeem115">
-                    <img
-                      className="fas fa-lg"
-                      src={github}
-                      alt="Github"
-                    />
-                  </a>
+                    </a>
+                    <a title="linkedin" href="https://www.linkedin.com/in/azeemabbas/">
+                      <img
+                        className="fas fa-lg"
+                        src={linkedin}
+                        alt="LinkedIn"
+                      />
+                    </a>
+                    <a title="dribbble" href="https://dribbble.com/azeem115">
+                        <img
+                          className="fas fa-lg"
+                          src={dribbble}
+                          alt="Dribbble"
+                        />
+                    </a>
+                    <a title="github" href="https://github.com/Azeem115">
+                      <img
+                        className="fas fa-lg"
+                        src={github}
+                        alt="Github"
+                      />
+                    </a>
                 </div>
               </div>
             </div>
