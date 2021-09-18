@@ -11,9 +11,9 @@ title: Who am I?
 
 ### And a dangerous environmentalist that will chase you to end of the earth just for littering.
 
-Hi I’m Azeem. and I'm from Karachi, Pakistan. I’m a **web UI designer/developer/engineer** with five years of experience working in e-commerce, online learning, health, non-profits, health and government.
+Hi I’m Azeem. and I'm from Karachi, Pakistan. I’m a **web UI designer/developer/engineer** with five years of experience having worked for various clients for e-commerce, online learning, health, non-profits, health and government.
 
-I collaborate with developers and project managers to translate concepts into live prototypes and resilient Web user interfaces. Then I convert those designs into code using HTML, CSS3 and presentational JavaScript or jQuery, ensuring that the design translates well to the browser, ensuring usability and responsiveness of the product by as many people as possible, regardless of their context and how they use it (screen readers, mobile phones, various browsers, etc.) 
+I collaborate with developers and project managers to translate concepts into live prototypes and accessible and responsive Web user interfaces.
 
 I love mixing technology with art. User Interface and visual design are my core strengths. I’m also proficient at UX design and rapidly levelling up. I aspire to become a full stack product designer where I take your story or idea and bring it to life! 
 
@@ -23,7 +23,7 @@ And did I forget to mention? I love **Coldplay** and **FC Barcelona**
 
 ### Where did I study from?
 
-The question everyone's eager to ask! Well, I studied Computer Engineering from Sir Syed University of Engineering. I have also completed four online courses from Udemy and one from Coursera.
+The question everyone's eager to ask! Well, I studied Computer Engineering at university. I have also completed four online courses from Udemy and one from Coursera.
 
 ### what I am doing right now?
 
