@@ -10,12 +10,7 @@ class BlogRoll extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return (
-      <div 
-        data-sal="slide-left" 
-        data-sal-duration="1000" 
-        data-sal-delay="300"
-        data-sal-easing="ease"
-        className="columns is-multiline">
+      <div className="columns is-multiline">
         {posts &&
           posts.map(({ node: post }) => (
             <div className="is-parent column is-12" key={post.id}>
