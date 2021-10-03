@@ -13,7 +13,7 @@ tags:
 
 It was one afternoon and I was ordering food at my work address using the online food delivery service **foodpanda**. The problem was that the application could not precisely map the name of my location so I had to select some nearby location name and had to write it in the ‘Note to rider’ field provided. But majority of Pakistanis cannot understand English fluently and even typing in Romanized Urdu does not work. **foodpanda** has tried to address this rider + customer discrepancy by introducing the chat and call feature but that too requires effort. 
 
-![](/img/screenshot_20210228-154424.jpg)
+![Present FoodPanda Address](/img/screenshot_20210228-154424.jpg)
 
 ## The Solution
 
