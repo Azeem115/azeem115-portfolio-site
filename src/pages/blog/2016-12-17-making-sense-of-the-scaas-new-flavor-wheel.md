@@ -25,6 +25,6 @@ An image upload option is included when entering the address. Users can take a p
 
 
 
-![](/img/with_image_before_after.png)
+![FoodPanda Before and After](/img/with_image_before_after.png)
 
 That’s it. It’s that easy. You can either select a picture from the gallery or ake one of the surrounding near you. This small update will unquestionably solve the problem for drivers who have difficulty identifying the precise location of their customers.
