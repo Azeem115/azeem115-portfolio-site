@@ -149,7 +149,7 @@ export const IndexPageTemplate = ({
                   data-sal-duration="1000" 
                   data-sal-delay="300"
                   className="has-text-centered">
-                    Let's say hi
+                    Let's connect
                 </h1>
                 <div 
                   data-sal="slide-up" 
