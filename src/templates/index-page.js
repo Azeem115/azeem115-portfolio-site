@@ -4,10 +4,10 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
-import BlogRoll from '../components/BlogRoll'
 import contactImage from '../img/83690163_10218664607741292_6706243901130276864_n.png'
 import linkedin from '../img/social/linkedin.svg'
 import twitter from '../img/social/twitter.svg'
+import BlogRoll from '../components/BlogRoll'
 import dribbble from '../img/social/dribbble.svg'
 import github from '../img/social/github.svg'
 
