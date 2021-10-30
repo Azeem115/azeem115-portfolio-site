@@ -58,7 +58,7 @@ BlogList.propTypes = {
     }),
   }
 
-export default BlogIndex
+export default BlogList
 
 export const pageQuery = graphql`
   query blogPageQuery($skip: Int!, $limit: Int!) {
