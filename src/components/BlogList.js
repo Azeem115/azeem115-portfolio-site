@@ -66,15 +66,29 @@ export const pageQuery = graphql`
   query blogPageQuery($skip: Int!, $limit: Int!) {
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
+      filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
       limit: $limit
       skip: $skip
     ) {
       edges {
         node {
-          excerpt
+          excerpt(pruneLength: 400)
+            id
+            fields {
+            slug
+          }
           frontmatter {
-            date(formatString: "DD MMMM, YYYY")
             title
+            templateKey
+            date(formatString: "MMMM DD, YYYY")
+            featuredpost
+            featuredimage {
+              childImageSharp {
+                fluid(maxWidth: 120, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }
