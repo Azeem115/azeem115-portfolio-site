@@ -58,9 +58,9 @@ BlogList.propTypes = {
     }),
   }
 
-export default ()  => (
- <StaticQuery
-  pageQuery = {graphql`
+export default BlogIndex
+
+export const pageQuery = graphql`
   query blogPageQuery($skip: Int!, $limit: Int!) {
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
@@ -78,7 +78,4 @@ export default ()  => (
       }
     }
   }
-`}
-render={(data, count) => <BlogList data={data} count={count} />}
-/>
-)
+`
