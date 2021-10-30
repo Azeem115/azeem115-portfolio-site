@@ -50,7 +50,17 @@ class BlogList extends React.Component {
   }
 }
 
-export const pageQuery = graphql`
+BlogList.propTypes = {
+    data: PropTypes.shape({
+      allMarkdownRemark: PropTypes.shape({
+        edges: PropTypes.array,
+      }),
+    }),
+  }
+
+export default ()  => (
+ <StaticQuery
+  pageQuery = {graphql`
   query blogPageQuery($skip: Int!, $limit: Int!) {
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
@@ -68,4 +78,7 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`}
+render={(data, count) => <BlogList data={data} count={count} />}
+/>
+)
