@@ -72,6 +72,23 @@ exports.createPages = ({ actions, graphql }) => {
   })
 }
 
+// Create blog post list pages
+const postsPerPage = 2;
+const numPages = Math.ceil(posts.length / postsPerPage);
+
+Array.from({ length: numPages }).forEach((_, i) => {
+  createPage({
+    path: i === 0 ? `/` : `/${i + 1}`,
+    component: path.resolve("./src/components/BlogList.js"),
+    context: {
+      limit: postsPerPage,
+      skip: i * postsPerPage,
+      numPages,
+      currentPage: i + 1,
+    },
+  });
+});
+
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
   fmImagesToRelative(node) // convert image paths for gatsby images
