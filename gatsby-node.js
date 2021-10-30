@@ -46,23 +46,6 @@ exports.createPages = ({ actions, graphql }) => {
       })
     })
 
-    // Create blog post list pages
-    const postsPerPage = 2;
-    const numPages = Math.ceil(posts.length / postsPerPage);
-
-    Array.from({ length: numPages }).forEach((_, i) => {
-      createPage({
-        path: i === 0 ? `/` : `/${i + 1}`,
-        component: path.resolve("./src/components/BlogList.js"),
-        context: {
-          limit: postsPerPage,
-          skip: i * postsPerPage,
-          numPages,
-          currentPage: i + 1,
-        },
-      })
-    })
-
     // Tag pages:
     let tags = []
     // Iterate through each post, putting all found tags into `tags`
