@@ -79,7 +79,7 @@ export const IndexPageTemplate = ({
                   className="has-text-centered">
                     My experiences
                 </h1>
-                  <BlogList />
+                  <BlogRoll />
               </div>
             </div>
           </div>
