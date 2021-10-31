@@ -58,11 +58,10 @@ BlogRoll.propTypes = {
 export default () => (
   <StaticQuery
     query={graphql`
-      query BlogRollQuery($skip: Int!, $limit: Int!) {
+      query BlogRollQuery($limit: Int!) {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
           limit: $limit
-          skip: $skip
           filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
         ) {
           edges {
