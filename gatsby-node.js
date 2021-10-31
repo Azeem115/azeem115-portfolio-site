@@ -30,6 +30,7 @@ exports.createPages = ({ actions, graphql }) => {
     }
 
     const posts = result.data.allMarkdownRemark.edges
+    const postsPerPage = 2
 
     posts.forEach((edge) => {
       const id = edge.node.id
@@ -42,6 +43,8 @@ exports.createPages = ({ actions, graphql }) => {
         // additional data can be passed via context
         context: {
           id,
+          limit: postsPerPage,
+          skip: i * postsPerPage,
         },
       })
     })
