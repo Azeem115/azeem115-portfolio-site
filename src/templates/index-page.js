@@ -247,10 +247,9 @@ IndexPage.propTypes = {
 export default IndexPage
 
 export const pageQuery = graphql`
-  query IndexPageTemplate($limit: Int!) {
+  query IndexPageTemplate {
     markdownRemark(
       frontmatter: { templateKey: { eq: "index-page" } }
-      limit: $limit
       ) {
       frontmatter {
         title
