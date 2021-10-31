@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: My project Hidayat secures third place in the GovTech Hackathon 2021
 date: 2021-10-30T10:35:08.803Z
-featuredpost: true
+featuredpost: false
 featuredimage: /img/hidayat-moodboard-1.jpg
 ---
 From October 8 to 10, [Code for Pakistan](https://codeforpakistan.org/), a non-profit organization that promotes government and civic tech innovation organized the [GovTech Hackathon 2021](https://codeforpakistan.org/govtech-hackathon-2021/). The hackathon invited people to think through and build innovative solutions to challenges that will transform Pakistan in the areas of education, health, climate change, mobility, travel and tourism.
