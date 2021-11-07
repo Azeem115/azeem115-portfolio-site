@@ -88,9 +88,15 @@ export const IndexPageTemplate = ({
     </section>
     <section className="section section--gradient lets_say_hi">
       <div className="container hero_section contact-info-lg">
-      <p className="lets_say_hi-desc mainpitch-desc">{mainpitch.description}</p>
         <div className="full-width-image margin-top-0">
+          <div className="hero-frame">
             <div className="contact_info-wrapper">    
+              <p 
+                data-sal="slide-left" 
+                data-sal-duration="1000" 
+                data-sal-delay="300"
+                className="mainpitch-desc">{mainpitch.description}
+              </p>
               <div 
                 data-sal="slide-right" 
                 data-sal-duration="1000" 
@@ -126,6 +132,7 @@ export const IndexPageTemplate = ({
                   </a>
               </div>
             </div>
+          </div>
           <div className="hero-image">
             <img className="hero-image-width" 
               src={contactImage} alt="Memorable image with all the design gurus of Karachi" />
