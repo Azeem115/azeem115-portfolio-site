@@ -67,6 +67,8 @@ As a remote team, we learned the importance of collaboration. When building a pr
 
 Hidayat secured third place in the GovTech Hackathon and I’ve could have never felt any better. 
 
-This was the first time in my life I have ever secured a major honour in any competition. The position holders will be awarded cash prizes at the Digital Youth Summit to be held in Peshawar on November 2021. We also have an opportunity to pitch out idea to global investors.
+This was the first time in my life I have ever secured a major honour in any competition. The position holders will be awarded prizes at the [Digital Youth Summit](https://www.digitalyouthsummit.pk/) to be held in Peshawar on 13 to 14 November 2021. We also have the opportunity to pitch out our idea to global investors.
 
 The future of Hidayat is to be able cater to all the career counseling needs from fifth grade till the age of 30.
+
+1.
