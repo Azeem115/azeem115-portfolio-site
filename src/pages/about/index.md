@@ -37,7 +37,6 @@ Check us out at: [wooninjas.com](https://wooninjas.com)
 * Adobe Photoshop
 * Adobe XD
 * Figma
-* Wireframing
 * Interactive Prototyping
 * HTML5
 * CSS
@@ -58,6 +57,7 @@ I am not great at them not because I do not know about them but have never pract
 
 * UX Research
 * Affinity Diagram
+* Wireframing
 * Information Architecture
 * Customer Journey Mapping
 * User psychology
