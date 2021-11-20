@@ -26,11 +26,11 @@ Hira wanted her community to evolve and have a dedicated web-based platform for 
 
 The task was to design what the new interface of this dashboard was going to look like. It was the biggest challenge I had ever faced because I had never designed dashboards before. As the only designer in the team of just four people, I was responsible from ideation to prototyping to delivering the final design before the hand-off.
 
+## How we did it
+
 I worked with Hira on the appearance of the platform. She briefed me about the functionality of the platform and its user flow. This platform was to have a single admin who could create groups and users can join them. Once they joined in, they can post questions and queries and other members can answer them, upvote or downvote them. The user flow is much similar to existing platforms like StackOverflow, Quora and Reddit.
 
 I researched existing community platforms like Stack Overflow, Reddit , Quora and Discord, how they functioned as well searched for design inspirations on Dribbble. Following the research phase, I created a rough wireframe of how different components will be structured and content organized there. Because the color theme and the typography was already agreed, the visual design process did not take that long and within three weeks the final design was delivered using Adobe XD.
-
-## How we did it
 
 It was imperative to keep all stakeholders on board, on the same wavelength and avoid any miscommunication. I suggested Hira that the entire team should meet up to resolve any critical issues and discuss new ideas or suggestions before the design was finalized. I hosted the team working on this project at my space where I conducted my first ever design sprint.
 
@@ -52,7 +52,7 @@ After the session, and a few rounds of meetings with Hira and the two developers
 
 ![](/img/image009.jpg)
 
-## What I learn
+## What I learned
 
 Unfortunately this product never shipped so it never saw the light of day. Although it did not make any impact, I consider it to be one of the most ambitious projects I had ever taken. Not only I learnt different features of Adobe XD but I learnt the values of empathy and collaboration. There was a tendency for the project to get caught in design or development hell but I made sure the design process went smoothly without any glitches. I firmly believe I implemented the principles of design practice wholeheartedly with whatever knowledge I had equipped over the past two years.
 
