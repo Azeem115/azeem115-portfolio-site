@@ -27,9 +27,10 @@ The question everyone's eager to ask! Well, I studied Computer Engineering at un
 
 ### what I am doing right now?
 
-Glad you asked. I'm currently working for WooNinjas, a WordPress plugin extension and customization agency. My job is to push pixels around to see if the interface looks excellent on all viewports.
+Glad you asked. I'm currently working at Cloud Primero B.V., a technology consulting and services company that helps create digital solutions and implements digital transformation initiatives.
 
-Check us out at: [wooninjas.com](https://wooninjas.com)
+
+Check us out at: [cloudprimero.com](https://cloudprimero.com/)
 
 ### What I am great at?
 
@@ -38,6 +39,7 @@ Check us out at: [wooninjas.com](https://wooninjas.com)
 * Adobe XD
 * Figma
 * Interactive Prototyping
+* Design Sprints
 * HTML5
 * CSS
 * Responsive Web Design
