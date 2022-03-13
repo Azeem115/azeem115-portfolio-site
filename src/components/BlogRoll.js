@@ -18,7 +18,11 @@ class BlogRoll extends React.Component {
                 className={`blog-list-item tile is-child`}
               >
                 <header>
-                  <div className="post-meta">
+                  <div 
+                    data-sal="slide-up" 
+                    data-sal-duration="1000" 
+                    data-sal-delay="300"
+                    className="post-meta">
                     <span className="subtitle is-size-4 is-block">
                       {post.frontmatter.date}
                     </span>

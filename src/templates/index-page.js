@@ -138,7 +138,11 @@ export const IndexPageTemplate = ({
               </div>
             </div>
           </div>
-          <div className="hero-image">
+          <div 
+            data-sal="slide-up" 
+            data-sal-duration="1000" 
+            data-sal-delay="600"
+            className="hero-image">
             <img className="hero-image-width" 
               src={contactImage} alt="Memorable image with all the design gurus of Karachi" />
           </div>
