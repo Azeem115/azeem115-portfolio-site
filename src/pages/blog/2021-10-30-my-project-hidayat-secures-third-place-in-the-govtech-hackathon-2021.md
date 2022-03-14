@@ -5,9 +5,9 @@ date: 2021-10-30T10:35:08.803Z
 featuredpost: false
 featuredimage: /img/hidayat-moodboard-1.jpg
 ---
-From October 8 to 10, [Code for Pakistan](https://codeforpakistan.org/), a non-profit organization that promotes government and civic tech innovation organized the [GovTech Hackathon 2021](https://codeforpakistan.org/govtech-hackathon-2021/). The hackathon invited people to think through and build innovative solutions to challenges that will transform Pakistan in the areas of education, health, climate change, mobility, travel and tourism.
+From October 8 to 10 2021, [Code for Pakistan](https://codeforpakistan.org/), a non-profit organization that promotes government and civic tech innovation organized the [GovTech Hackathon 2021](https://codeforpakistan.org/govtech-hackathon-2021/). The hackathon invited people to think through and build innovative solutions to challenges that will transform Pakistan in the areas of education, health, climate change, mobility, travel and tourism.
 
-This was the very first time I was participating in any hackathon. After sending multiple team-up requests, I teamed up with two participants to build a platform that aims to connect student counselors with students.
+This was the first time I was participating in a hackathon. After sending multiple team-up requests, I teamed up with two participants to build a platform that aims to connect student counselors with students.
 
 This platform was inspired from four issues identified below.
 
@@ -20,8 +20,6 @@ This platform was inspired from four issues identified below.
 **Suicide rates in Khyber Pakhtunkhwa province** have tremendously risen. For many students, their future is tied with their academics. Due to this perception, many students who get low scores have given up their lives to suicide.
 
 ## What was my role?
-
-I teamed up with two participants to build the platform. Let me introduce them:
 
 **[Amna Afzal](https://www.linkedin.com/in/amna-afzal-893996163/)** was the project lead. She is a researcher from Rawalpindi who holds a firm belief in numbers and experiences.
 
