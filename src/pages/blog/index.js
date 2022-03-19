@@ -8,7 +8,7 @@ export default class BlogIndexPage extends React.Component {
     return (
       <Layout>
         <div className="container">
-          <div className="full-width-image margin-top-0">
+          <div className="blog-full-width-image margin-top-0">
             <div className="hero-frame">
               <h1 className="has-text-weight-bold is-size-3-mobile hero-heading-h1">
                 My Work
