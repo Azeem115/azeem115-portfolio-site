@@ -23,6 +23,15 @@ export const IndexPageTemplate = ({
   <div>
     <div className="container hero_section">
       <div className="full-width-image margin-top-0">
+        <div 
+          data-sal="slide-up"
+          data-sal-duration="1000" 
+          data-sal-delay="600"
+          data-sal-easing="ease" 
+          className="hero-image">
+          <img className="hero-image-width"
+            src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image} alt="Main featured image"/>
+        </div>
         <div className="hero-frame">
           <h1  
             data-sal="slide-up"
@@ -32,15 +41,6 @@ export const IndexPageTemplate = ({
             className="has-text-weight-bold is-size-3-mobile hero-heading-h1">
               {title}
           </h1>
-        </div>
-        <div 
-          data-sal="slide-up"
-          data-sal-duration="1000" 
-          data-sal-delay="600"
-          data-sal-easing="ease" 
-          className="hero-image">
-          <img className="hero-image-width"
-            src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image} alt="Main featured image"/>
         </div>
       </div>
     </div>
