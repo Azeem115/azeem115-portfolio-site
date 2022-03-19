@@ -93,7 +93,7 @@ export const IndexPageTemplate = ({
     </section>
     <section className="section section--gradient lets_say_hi">
       <div className="container hero_section contact-info-lg">
-        <div className="full-width-image margin-top-0">
+        <div className="contact-full-width-image margin-top-0">
           <div className="hero-frame">
             <div className="contact_info-wrapper">    
               <p 
