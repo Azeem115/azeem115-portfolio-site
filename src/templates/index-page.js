@@ -25,8 +25,8 @@ export const IndexPageTemplate = ({
       <div className="full-width-image margin-top-0">
         <div 
           data-sal="slide-up"
-          data-sal-duration="600" 
-          data-sal-delay="300"
+          data-sal-duration="1000" 
+          data-sal-delay="600"
           data-sal-easing="ease" 
           className="hero-image">
           <img className="hero-image-width"
@@ -35,7 +35,7 @@ export const IndexPageTemplate = ({
         <div className="hero-frame">
           <h1  
             data-sal="slide-up"
-            data-sal-duration="600" 
+            data-sal-duration="1000" 
             data-sal-delay="300"
             data-sal-easing="ease" 
             className="has-text-weight-bold is-size-3-mobile hero-heading-h1">
