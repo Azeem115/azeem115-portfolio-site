@@ -116,6 +116,13 @@ a.navbar-item:hover
 .full-width-image
   display: flex
   flex-direction: column
+  position: relative
+
+.hero-design-illustration
+  position: absolute
+  width: 627px
+  bottom: 0
+  right: 0
 
 .contact-full-width-image
   display: flex
@@ -372,6 +379,8 @@ section.lets_say_hi:before
 +tablet-only
   .blog-list-item .featured-thumbnail
     flex-basis: 50%
+  .hero-design-illustration
+    display: none
   .hero-heading-h1
     font-size: 3rem!important
     left: 0.5em
@@ -388,6 +397,8 @@ section.lets_say_hi:before
     margin: 0 0 1em
   .full-width-image
     display: block
+  .hero-design-illustration
+    display: none
   .post-meta 
     display: block
   .is-size-2
