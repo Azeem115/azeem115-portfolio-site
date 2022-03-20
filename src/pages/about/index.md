@@ -15,7 +15,9 @@ Hi I’m Azeem. and I'm from Karachi, Pakistan. I’m a **web UI designer/develo
 
 I collaborate with developers and project managers to translate concepts into live prototypes and accessible and responsive Web user interfaces.
 
-I love mixing technology with art. User Interface and visual design are my core strengths. I’m also proficient at UX design and rapidly levelling up. I aspire to become a full stack product designer where I take your story or idea and bring it to life! 
+I love mixing technology with art. User Interface and visual design are my core strengths. I’m also proficient at UX design and rapidly levelling up. I aspire to become a full stack product designer where I take your story or idea and bring it to life!
+
+![Design Tech Product Venn Diagram](/img/venn-scribbles-azeem.png)
 
 I’m extremely passionate about designing for promising startups and products that help entrepreneurs, agencies and businesses raise their game.
 
@@ -28,7 +30,6 @@ The question everyone's eager to ask! Well, I studied Computer Engineering at un
 ### what I am doing right now?
 
 Glad you asked. I'm currently working at Cloud Primero B.V., a technology consulting and services company that helps create digital solutions and implements digital transformation initiatives.
-
 
 Check us out at: [cloudprimero.com](https://cloudprimero.com/)
 
