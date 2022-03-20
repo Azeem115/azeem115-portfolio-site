@@ -5,6 +5,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import contactImage from '../img/83690163_10218664607741292_6706243901130276864_n.png'
+import heroDesignIllustration from '../img/tokyo-selection-of-different-shapes-for-design.png'
 import linkedin from '../img/social/linkedin.svg'
 import twitter from '../img/social/twitter.svg'
 import BlogRoll from '../components/BlogRoll'
@@ -23,6 +24,17 @@ export const IndexPageTemplate = ({
   <div>
     <div className="container hero_section">
       <div className="full-width-image margin-top-0">
+        <div
+          data-sal="flip-left"
+          data-sal-duration="1000" 
+          data-sal-delay="600"
+          data-sal-easing="ease" 
+          className='hero-design-illustration'>
+          <img
+            src={heroDesignIllustration}
+            alt="Design Illustration Shapes"
+          /> 
+        </div> 
         <div 
           data-sal="slide-up"
           data-sal-duration="1000" 
