@@ -39,7 +39,7 @@ export const IndexPageTemplate = ({
             data-sal-duration="1000" 
             data-sal-delay="300"
             data-sal-easing="ease" 
-            className="has-text-weight-bold is-size-3-mobile hero-heading-h1">
+            className="is-size-3-mobile hero-heading-h1">
               {/* {title} */}<span>UI Designer.</span><span>UX Designer.</span><span>Developer.</span><br/><span className="heading-stroke-text">Your Digital Craftsman.</span>
           </h1>
         </div>
