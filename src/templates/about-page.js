@@ -12,7 +12,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
       <div className="container">
         <div className="about-full-width-image margin-top-0">
           <div className="hero-frame">
-            <h1 className="has-text-weight-bold is-size-3-mobile about-heading-h1">
+            <h1 className="is-size-3-mobile about-heading-h1">
               {title}
             </h1>
           </div>
