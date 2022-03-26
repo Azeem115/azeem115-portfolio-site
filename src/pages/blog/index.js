@@ -10,7 +10,7 @@ export default class BlogIndexPage extends React.Component {
         <div className="container">
           <div className="blog-full-width-image margin-top-0">
             <div className="hero-frame">
-              <h1 className="has-text-weight-bold is-size-3-mobile work-heading-h1">
+              <h1 className="is-size-3-mobile work-heading-h1">
                 My Work
               </h1>
             </div>
