@@ -23,18 +23,7 @@ export const IndexPageTemplate = ({
 }) => (
   <div>
     <div className="container hero_section">
-      <div className="full-width-image margin-top-0">
-        <div
-          data-sal="flip-left"
-          data-sal-duration="1000" 
-          data-sal-delay="600"
-          data-sal-easing="ease" 
-          className='hero-design-illustration'>
-          <img
-            src={heroDesignIllustration}
-            alt="Design Illustration Shapes"
-          /> 
-        </div> 
+      <div className="full-width-image margin-top-0"> 
         <div 
           data-sal="slide-up"
           data-sal-duration="1000" 
