@@ -40,9 +40,8 @@ Check us out at: [cloudprimero.com](https://cloudprimero.com/)
 * Adobe XD
 * Figma
 * Interactive Prototyping
-* Design Sprints
+* Wireframing
 * HTML5
-* CSS
 * Responsive Web Design
 * CSS3
 * jQuery
@@ -51,7 +50,7 @@ Check us out at: [cloudprimero.com](https://cloudprimero.com/)
 * Drupal 8
 * Visual Design
 * Technical and Business Communication
-* Cooking an omlette
+* Cooking an omelette
 * Boiling noodles
 
 ### what I am not great at?
@@ -60,7 +59,6 @@ I am not great at them not because I do not know about them but have never pract
 
 * UX Research
 * Affinity Diagram
-* Wireframing
 * Information Architecture
 * Customer Journey Mapping
 * User psychology
