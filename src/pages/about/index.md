@@ -11,9 +11,9 @@ title: Who am I?
 
 ### And a dangerous environmentalist that will chase you to end of the earth just for littering.
 
-Hi I’m Azeem. and I'm from Karachi, Pakistan. I’m a **web UI designer/developer/engineer** with five years of experience having worked for various clients for e-commerce, online learning, health, non-profits, health and government.
+Hi I’m Azeem. and I'm from Karachi, Pakistan. I’m a **web UI designer/developer/engineer** with six years of experience having worked for diverse clients including e-commerce, online learning, health, non-profits, health and government.
 
-I collaborate with developers and project managers to translate concepts into live prototypes and accessible and responsive Web user interfaces.
+I collaborate with developers and product managers to translate concepts into live prototypes and accessible and responsive Web user interfaces. I partner with the engineering and product teams to define, validate, and prioritize core use cases and identify and document key user journeys, workflows, and product opportunities. 
 
 I love mixing technology with art. User Interface and visual design are my core strengths. I’m also proficient at UX design and rapidly levelling up. I aspire to become a full stack product designer where I take your story or idea and bring it to life!
 
@@ -43,6 +43,7 @@ Check us out at: [cloudprimero.com](https://cloudprimero.com/)
 * Wireframing
 * HTML5
 * Responsive Web Design
+* Information Architecture
 * CSS3
 * jQuery
 * WordPress
@@ -59,7 +60,6 @@ I am not great at them not because I do not know about them but have never pract
 
 * UX Research
 * Affinity Diagram
-* Information Architecture
 * Customer Journey Mapping
 * User psychology
 * Cooking Biryani and Karahi
