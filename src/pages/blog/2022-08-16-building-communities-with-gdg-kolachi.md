@@ -29,9 +29,9 @@ Perhaps the most daunting task was reaching out to professionals as speakers. I 
 
 Nevertheless despite the jitters we made them ready and were able to secure the locations and sponsors for the event.
 
-On Tuesday June 28, DHA Suffa University welcomed 400 participants to BLAZE 22. They all came with to connect, learn and celebrate. The event had an exciting line up of speakers including Sakina Abbas, Arbaz Pirwani, Ariba Shahid, Dr. Huma Jamshed, Imran Azhar, Numrah Khan, Wajahat Karim 🇵🇰 and Mobeen Ahmed.
+On Tuesday June 28, DHA Suffa University welcomed 400 participants to BLAZE 22. They all came with to connect, learn and celebrate. The event had an exciting line up of speakers including Sakina Abbas, Arbaz Pirwani, Ariba Shahid, Dr. Huma Jamshed, Imran Azhar, Numrah Khan, Wajahat Karim and Mobeen Ahmed.
 
-There were also workshops for both tech and non tech related areas, conducted by Ishaq Hassan and by Batool Aamir.
+There were also workshops for both tech and non tech related areas, conducted by Ishaq Hassan and Batool Aamir.
 
 ![](/img/blaze-blog-collage.jpg)
 
