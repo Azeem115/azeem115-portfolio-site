@@ -16,7 +16,7 @@ description: >-
   With a demonstrated history of working in the industry, I have learnt to combine both the tasks and perform them to my utmost ability to deliver captivating, stunning web experiences. Simply put, I make the web look awesome!
 
 
-  Always on the look for new trends, approaches innovation and challenges in the tech industry especially user interface design, user experience design and product design.   A lifelong learner and problem solver, I like building solutions that bring real social impact. 
+  Always on the look for new trends, approaches innovation and challenges in the tech industry especially user interface design, user experience design and product design. A lifelong learner and problem solver, I like building solutions that bring real social impact. 
 
 
   Currently, I’m a UI/UX Designer at Cloud Primero B.V., a technology consultancy that helps create digital solutions and implement digital transformation initiatives.
