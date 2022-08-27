@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Building communities with GDG Kolachi
-date: 2022-08-16T18:26:25.072Z
+date: 2022-08-04T18:26:25.072Z
 featuredpost: true
 featuredimage: /img/dsc_3267.max-1000x1000.jpg
 ---
