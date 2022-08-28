@@ -5,7 +5,7 @@ date: 2022-08-27T21:29:13.843Z
 featuredpost: true
 featuredimage: /img/dashboard-de-klok-super-admin-view-sample-3.jpg
 ---
-Since 2010, De Klok Logistics has been a reliable carrier in the Netherlands, specializing in fine-meshed distribution within the country. Since 2017, it has partnered with Vortex-Logistics, Van Vliet Transport and other sister companies, expanding its storage capacity to 150,000 m2 spreading over various locations in the Netherlands.
+Since 2010, **De Klok Logistics** has been a reliable carrier in the Netherlands, specializing in fine-meshed distribution within the country. Since 2017, it has partnered with Vortex-Logistics, Van Vliet Transport and other sister companies, expanding its storage capacity to 150,000 m2 spreading over various locations in the Netherlands.
 
 ## The Challenge
 
@@ -17,7 +17,7 @@ De Klok recognized the need for a transformation of its current logistics platfo
 
 ## What We Did
 
-After extensive research and meetings with the stakeholders, Cloud Primero B.V. was selected as the partner to develop and maintain the new portal. The roadmap was laid out on a Miro board shared with my team. 
+After extensive research and meetings with the stakeholders, **Cloud Primero B.V.** was selected as the partner to develop and maintain the new portal. The roadmap was laid out on a Miro board shared with my team. 
 
 The stakeholders identified six end-points or modules that the portal must have: a login screen, admin role, transport overview, shipment overview billing, track and trace and notifications.
 
@@ -28,6 +28,8 @@ Putting the customer experience at the heart of the redesign philosophy, it was 
 Following the wireframes, we created the final design. While designing the portal, we followed the component-based approach to keep the design scalable yet simple.
 
 The design team stressed on the UX laws of common region, proximity and aesthetic-usability effect to establish modularity across the design.
+
+![](/img/deklok_screen_tiles.png)
 
 The track and trace module provides a crucial tour d'horizon of the status of each shipment.
 
