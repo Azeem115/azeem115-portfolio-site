@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Revitalizing the design experience for a logistics carrier "
 date: 2022-08-27T21:29:13.843Z
 featuredpost: true
-featuredimage: /img/dashboard-de-klok-super-admin-view-sample-3.jpg
+featuredimage: /img/deklok_screen_main_dashboard.png
 ---
 Since 2010, **De Klok Logistics** has been a reliable carrier in the Netherlands, specializing in fine-meshed distribution within the country. Since 2017, it has partnered with Vortex-Logistics, Van Vliet Transport and other sister companies, expanding its storage capacity to 150,000 m2 spreading over various locations in the Netherlands.
 
@@ -27,16 +27,22 @@ Putting the customer experience at the heart of the redesign philosophy, it was 
 
 Following the wireframes, we created the final design. While designing the portal, we followed the component-based approach to keep the design scalable yet simple.
 
-The design team stressed on the UX laws of common region, proximity and aesthetic-usability effect to establish modularity across the design.
+The design team stressed on the UX laws of common region, proximity, similarity, aesthetic-usability and Von Restorff to establish modularity across the design.
 
 ![](/img/deklok_screen_tiles.png)
 
 The track and trace module provides a crucial tour d'horizon of the status of each shipment.
 
+![](/img/deklok_screen_laws.png)
+
 ## The Result
 
 The newly refreshed design of the logistic portal provides De Klok Logistics and its customers a user experience which is optimized, customizable and cost effective. Customers have an easy-to-use software which communicates to them.
 
-![](/img/dashboard-de-klok-super-admin-view-sample-3.jpg "De Klok Dashboard")
+![De Klok Dashboard](/img/deklok_screen_main_dashboard.png "De Klok Dashboard")
+
+![Color Scheme](/img/deklok_screen_colors.png "Color Scheme")
+
+![](/img/deklok_screen_typography.png)
 
 Future developments in the pipeline include a chat module and a mobile app to give De Klok’s customers a much personalized experience.
