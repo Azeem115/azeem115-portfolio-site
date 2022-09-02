@@ -5,38 +5,40 @@ date: 2020-12-20T09:08:19.450Z
 featuredpost: true
 featuredimage: /img/la-rel-easter-kucglbxjh_o.jpg
 ---
-Having been in the digital industry for almost six years, let me present to you some of the selected noteworthy projects I have worked for some of the notable names in the country. Because duh! how can I call this a portfolio website if I don't show my "work"?
+Having been in the digital industry for almost six years, let me present to you some of the selected noteworthy projects. Because duh! how can I call this a portfolio website if I don't show my "work"?
 
-1. [Patients' Aid Foundation](https://pafjpmc.org/)
+**NIICO**
 
-   **Type:** Healthcare, Non-profit organization
+**Type:** Eco-friendly, E-commerce
+
+![](/img/nico_moodboard.jpg)
+
+[Patients' Aid Foundation](https://pafjpmc.org/)
+
+**Type:** Healthcare, Non-profit organization
 
 ![PAFJPMC](/img/paf.png "Patients' Aid Foundation")
 
-2. [Fatimid Foundation](https://fatimid.org)
+[Fatimid Foundation](https://fatimid.org)
 
 **Type:** Healthcare, Non-profit organization
 
 ![Fatimid](/img/fatimid.png "Fatimid Foundation")
 
-3. [Ceylon Jalaya](https://ceylonjalaya.com/)
+[Ceylon Jalaya](https://ceylonjalaya.com/)
 
 **Type:** E-commerce, Food and drink
 
 ![Ceylon Jalaya](/img/ceylon-jalaya.png "Ceylon Jalaya")
 
-4. [Change Clothings](https://changeclothings.com.pk/)
+[Change Clothings](https://changeclothings.com.pk/)
 
-   **Type:** Ecommerce, Fashion
+**Type:** Ecommerce, Fashion
 
 ![Change](/img/change.png "Change Clothings")
 
-5. [](https://changeclothings.com.pk/)[BadgeOS](https://badgeos.org/)
+[](https://changeclothings.com.pk/)[BadgeOS](https://badgeos.org/)
 
- **   Type:** WordPress, Plugin, Gamification
+**Type:** WordPress, Plugin, Gamification
 
 ![BadgeOS](/img/badgeos_screenshot.png "BadgeOS")
-
-
-
-All were developed on WordPress except for Change Clothings that was developed on a custom in-house PHP e-commerce platform.
