@@ -1,7 +1,7 @@
 import Ticker from 'react-ticker'
 
 const MoveStuffAround = () => (
-    <Ticker speed={8} mode="chain" offset="run-in">
+    <Ticker speed={13} mode="chain" offset="20">
         {({ index }) => (
             <>
             <h1 className="is-size-3-mobile hero-heading-h1">
