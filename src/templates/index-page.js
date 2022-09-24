@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
-import Ticker from 'react-ticker'
+import MoveStuffAround from '../components/Ticker'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import contactImage from '../img/83690163_10218664607741292_6706243901130276864_n.png'
@@ -71,6 +71,7 @@ export const IndexPageTemplate = ({
         </div>
       </div>
     </section>
+    <MoveStuffAround />
     <section className="section section--gradient my_experiences">
       <div className="container">
         <div className="column is-10 is-offset-1">
