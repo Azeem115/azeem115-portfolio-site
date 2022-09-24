@@ -45,7 +45,6 @@ export const IndexPageTemplate = ({
         </div>
       </div>
     </div>
-    <Ticker />
     <section className="section section--gradient who_am_i">
       <div className="container">
         <div className="column is-10 is-offset-1">
