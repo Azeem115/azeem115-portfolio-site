@@ -4,8 +4,9 @@ const MoveStuffAround = () => (
     <Ticker>
         {({ index }) => (
             <>
-                <h1>This is the Headline of element #{index}!</h1>
-                <img src="www.my-image-source.com/" alt=""/>
+            <h1 className="is-size-3-mobile hero-heading-h1">
+                {/* {title} */}<span>UI Designer.</span><span>UX Designer.</span><span>Developer.</span><br/><span className="heading-stroke-text">Your Digital Craftsman.</span>
+          </h1>
             </>
         )}
     </Ticker>
