@@ -34,14 +34,14 @@ export const IndexPageTemplate = ({
             src={!!image.childImageSharp ? image.childImageSharp.fluid.src : image} alt="Main featured image"/>
         </div>
         <div className="hero-frame">
-          <h1  
+          {/* <h1  
             data-sal="slide-up"
             data-sal-duration="1000" 
             data-sal-delay="300"
             data-sal-easing="ease" 
-            className="is-size-3-mobile hero-heading-h1">
-              {/* {title} */}<span>UI Designer.</span><span>UX Designer.</span><span>Developer.</span><br/><span className="heading-stroke-text">Your Digital Craftsman.</span>
-          </h1>
+             className="is-size-3-mobile hero-heading-h1">
+              <span>UI Designer.</span><span>UX Designer.</span><span>Developer.</span><br/><span className="heading-stroke-text">Your Digital Craftsman.</span>
+          </h1> */}
         </div>
       </div>
     </div>

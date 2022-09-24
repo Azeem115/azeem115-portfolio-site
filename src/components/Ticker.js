@@ -5,7 +5,7 @@ const MoveStuffAround = () => (
         {({ index }) => (
             <>
             <h1 className="is-size-3-mobile hero-heading-h1">
-                {/* {title} */}<span>UI Designer.</span><span>UX Designer.</span><span>Developer.</span><br/><span className="heading-stroke-text">Your Digital Craftsman.</span>
+                {/* {title} */}<span>UI Designer.</span><span>UX Designer.</span><span>Developer.</span><span className="heading-stroke-text">Your Digital Craftsman.</span>
           </h1>
             </>
         )}
