@@ -45,6 +45,7 @@ export const IndexPageTemplate = ({
         </div>
       </div>
     </div>
+    <MoveStuffAround />
     <section className="section section--gradient who_am_i">
       <div className="container">
         <div className="column is-10 is-offset-1">
@@ -71,7 +72,6 @@ export const IndexPageTemplate = ({
         </div>
       </div>
     </section>
-    <MoveStuffAround />
     <section className="section section--gradient my_experiences">
       <div className="container">
         <div className="column is-10 is-offset-1">
