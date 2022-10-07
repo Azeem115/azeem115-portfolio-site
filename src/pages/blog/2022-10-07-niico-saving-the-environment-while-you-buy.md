@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Niico - saving the environment while you buy
+title: Niico - designing a b2c experience for the environment
 date: 2022-10-07T14:13:49.844Z
 featuredpost: true
 featuredimage: /img/slide-16_9-21.png
