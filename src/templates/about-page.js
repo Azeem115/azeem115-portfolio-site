@@ -18,7 +18,7 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
           </div>
           <div className="hero-image">
           <img className="hero-image-width"
-            src='/img/83690163_10218664607741292_6706243901130276864_n.jpg' alt="About Me image"/>
+            src='/img/IMG_4178.jpg' alt="About Me image"/>
           </div>
         </div>
         <div className="columns">
