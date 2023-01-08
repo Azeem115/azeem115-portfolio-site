@@ -19,7 +19,7 @@ I am an accomplished designer with a proven track record of delivering successfu
 
 
 
-In addition to my design skills, I also have extensive experience as a front-end developer, which enables me to collaborate with developers and product managers to translate concepts into live prototypes and accessible and responsive Web user interfaces. I partner with the engineering and product teams to define, validate, and prioritize core use cases and identify and document key user journeys, workflows, and product opportunities.
+In addition to my design skills, I also have extensive experience as a front-end developer, which enables me to collaborate with developers and product managers to translate concepts into live prototypes and accessible and responsive Web user interfaces. I partner with product teams to define, validate, and prioritize core use cases and document key user journeys, workflows, and product opportunities.
  
 
 If you are looking for a talented and experienced product designer who can bring fresh ideas and a results-driven approach to your team, please don't hesitate to reach out. I would love the opportunity to discuss how I can contribute to your product's success.
