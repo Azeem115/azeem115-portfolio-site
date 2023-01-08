@@ -11,11 +11,18 @@ title: Who am I?
 
 ### And a dangerous environmentalist that will chase you to end of the earth just for littering.
 
-Hi I’m Azeem. and I'm from Karachi, Pakistan. I’m a **web UI designer/developer/engineer** with six years of experience having worked for diverse clients including e-commerce, online learning, health, non-profits, health and government.
+Hi I’m Azeem and I'm from Karachi, Pakistan. I am a product designer with over seven years of experience in the field, with a strong background in web, UI, and UX design, as well as front-end development. My passion for creating intuitive and engaging digital experiences has driven me to continuously improve my skills and stay up-to-date with the latest design trends and technologies.
 
-I collaborate with developers and product managers to translate concepts into live prototypes and accessible and responsive Web user interfaces. I partner with the engineering and product teams to define, validate, and prioritize core use cases and identify and document key user journeys, workflows, and product opportunities. 
 
-I love mixing technology with art. User Interface and visual design are my core strengths. I’m also proficient at UX design and rapidly levelling up. I aspire to become a full stack product designer where I take your story or idea and bring it to life!
+
+I am an accomplished designer with a proven track record of delivering successful projects for a wide range of clients including e-commerce, online learning, health, non-profits, health and government. I have a strong eye for detail and a dedication to creating designs that not only look great, but also solve complex problems and meet the needs of users.
+
+
+
+In addition to my design skills, I also have extensive experience as a front-end developer, which enables me to collaborate with developers and product managers to translate concepts into live prototypes and accessible and responsive Web user interfaces. I partner with the engineering and product teams to define, validate, and prioritize core use cases and identify and document key user journeys, workflows, and product opportunities.
+ 
+
+If you are looking for a talented and experienced product designer who can bring fresh ideas and a results-driven approach to your team, please don't hesitate to reach out. I would love the opportunity to discuss how I can contribute to your product's success.
 
 ![Design Tech Product Venn Diagram](/img/venn-scribbles-azeem.png)
 
