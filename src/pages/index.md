@@ -22,7 +22,7 @@ description: >-
   Currently, I’m a UI/UX Designer at Cloud Primero B.V., a technology consultancy that helps create digital solutions and implement digital transformation initiatives.
 
 
-  Besides my professional duties, I love building communities and I'm currently volunteering for Google Developers Group Kolachi with the aim to build a strong community of software developers.
+  Besides my professional duties, I love building communities and I'm currently volunteering for Google Developers Group Kolachi with the aim to build a strong community of tech enthusiasts.
 intro:
   blurbs:
     - image: /img/coffee.png
