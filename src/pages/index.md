@@ -19,7 +19,7 @@ description: >-
   Always on the look for new trends, approaches innovation and challenges in the tech industry especially user interface design, user experience design and product design. A lifelong learner and problem solver, I like building solutions that bring real social impact. 
 
 
-  Currently, I’m a UI/UX Designer at Cloud Primero B.V., a technology consultancy that helps create digital solutions and implement digital transformation initiatives.
+  Currently, I’m a UI/UX Designer at Bykea, Pakistan's most in-demand ride hailing and delivery service and one of the country's most successful local startups.
 
 
   Besides my professional duties, I love building communities and I'm currently volunteering for Google Developers Group Kolachi with the aim to build a strong community of tech enthusiasts.
