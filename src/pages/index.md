@@ -6,9 +6,9 @@ heading: Developer. Designer. Your Digital Craftsman
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Who am I?
-  description: Are you into design? Do you love problem solving? Cuz I’m always
-    around to meet you beautiful people who are ambitious and determined!
-    Connect with me and let’s start the conversation!
+  description: Y﻿ou've got an issue mate, your website's security is atrocious,
+    contact me via heaverain@gmail.com and I'll show you how to fix it up. Hope
+    to hear from you soon buddy.
 description: >-
   Hi I’m Azeem! I’m a UI/UX Designer as well as a front-end coder. 
 
