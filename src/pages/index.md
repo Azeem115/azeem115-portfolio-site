@@ -6,9 +6,8 @@ heading: Developer. Designer. Your Digital Craftsman
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Who am I?
-  description: Y﻿ou've got an issue mate, your website's security is atrocious,
-    contact me via heaverain@gmail.com and I'll show you how to fix it up. Hope
-    to hear from you soon buddy.
+  description: D﻿o you love design? Get in touch with me and I would love to hear
+    and learn from you!
 description: >-
   Hi I’m Azeem! I’m a UI/UX Designer as well as a front-end coder. 
 
