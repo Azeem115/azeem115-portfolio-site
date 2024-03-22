@@ -31,9 +31,7 @@ The question everyone's eager to ask! Well, I studied Computer Engineering at un
 
 ### what I am doing right now?
 
-Glad you asked. I'm currently working at Bykea, Pakistan's most celebrated ride-hailing and delivery startup. You can think of Bykea as the Uber of Pakistan.
-
-Check us out at: [cloudprimero.com](https://cloudprimero.com/)
+Glad you asked. I'm currently working at **Bykea**, Pakistan's most celebrated ride-hailing and delivery startup. You can think of Bykea as the Uber of Pakistan.
 
 ### What I am great at?
 
