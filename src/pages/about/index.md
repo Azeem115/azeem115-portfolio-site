@@ -35,15 +35,19 @@ Glad you asked. I'm currently working at **Bykea**, Pakistan's most celebrated r
 
 ### What I am great at?
 
+* UX Research
+* Affinity Diagram
+* Customer Journey Mapping
+* User psychology
+* Interactive Prototyping
+* Wireframing
+* Information Architecture
 * Adobe Illustrator
 * Adobe Photoshop
 * Adobe XD
 * Figma
-* Interactive Prototyping
-* Wireframing
 * HTML5
 * Responsive Web Design
-* Information Architecture
 * CSS3
 * jQuery
 * WordPress
@@ -53,15 +57,3 @@ Glad you asked. I'm currently working at **Bykea**, Pakistan's most celebrated r
 * Technical and Business Communication
 * Cooking an omelette
 * Boiling noodles
-
-### what I am not great at?
-
-I am not great at them not because I do not know about them but have never practiced them professionally
-
-* UX Research
-* Affinity Diagram
-* Customer Journey Mapping
-* User psychology
-* Cooking Biryani and Karahi
-* Baking a pie
-* How to use the washing machine
