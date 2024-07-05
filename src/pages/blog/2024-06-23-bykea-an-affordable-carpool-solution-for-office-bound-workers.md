@@ -88,7 +88,7 @@ We were aware of developing a service from scratch and agreed to a boilerplate M
 
 The marketing team designed a dedicated set of vector icons for the vehicle categories.
 
-![](/img/profile-screen.png)
+![](/img/lead-generation-screen-explained-2.jpg)
 
 ## Customer journey
 
