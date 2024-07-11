@@ -8,7 +8,9 @@ featuredimage: /img/carpool-car-sticker-2.jpg
 ## Background
 
 Founded in 2016, Bykea has become  Pakistan’s most celebrated ride-hailing solution offering low fares for commuters in Karachi, Lahore and Islamabad. It has earned its reputation as a major success story in the country’s startup ecosystem, providing affordable technology solutions that create economic opportunities, while addressing rampant challenges in the transportation and logistics sectors of the country.
-The Challenge
+
+
+## The Challenge
 
 With rising fuel prices and costs of living and more women entering the workforce, carpooling and slugging has become a growing practice. Bykea discovered an opportunity to digitize the offline behavior of a monthly pick and drop subscription through pooling passengers together as they commute to and from work/educational institutes.
 
