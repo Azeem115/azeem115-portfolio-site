@@ -21,7 +21,7 @@ description: >-
   Currently, I’m a UI/UX Designer at Bykea, Pakistan's most in-demand ride hailing and delivery service and one of the country's most successful local startups.
 
 
-  Besides my professional duties, I love building communities and I'm currently volunteering for Google Developers Group Kolachi with the aim to build a strong community of tech enthusiasts.
+  Besides my professional duties, I love volunteering with tech and design communities to empower students and prepare them for the challenges when they enter the industry.
 intro:
   blurbs:
     - image: /img/coffee.png
