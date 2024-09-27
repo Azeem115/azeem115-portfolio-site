@@ -40,12 +40,12 @@ When I got hired by Bykea in 2023, I was tasked to work on this new upcoming ver
 
 We identified probable user journeys, touch-points and edge cases and the customers’ motivation and possible emotions experienced through those stages. We interviewed Bykea customers, notably young women between the ages of 20 and 26 that utilized carpooling services. 
 
-We explored other carpooling apps i.e. BlaBlaCars and Yandex (operating in Kazakhstan and Uzbekistan) to understand the solicitation process.
+We explored other carpooling apps i.e. BlaBlaCars and Yandex (operating in France, Kazakhstan and Uzbekistan respectively) to understand the solicitation process.
 
 After three months of intensive product discovery we laid down the refined customer and partner journeys.
 
+A customer should be able to provide the following details when creating a booking:
 <ul>
-<li>A customer should be able to provide the following details when creating a booking:
 <li>Either select one-way or two-way. One way will not have a drop-off time.</li>
 <li>Daily pickup and dropoff points.</li>
 <li>Select start date of the entire batch.</li>
@@ -57,7 +57,7 @@ After three months of intensive product discovery we laid down the refined custo
 <li>Ability to cancel all offers, ignore specific offers, or accept a specific offer.</li>
 <li>Ability to make a payment once the customer has selected an offer.</li>
 <li>Ability to make partial payment: I stressed that customers should have the offer to make a partial payment in case if they are not satisfied with the service and wish to cancel it.</li>
-<li>Ability to make full payment (why would they do this? - maybe a slight discount?).</li>
+<li>Ability to make full payment.</li>
 <li>Ability to use cards/telco wallet/ IBFT to make the payment.</li>
 <li>Ability to receive a refund if the trip has a genuine cancellation, or a partial refund if the trip has an arbitrary cancellation.</li>
 <li>Ability to view the summary once the payment has been made, contact the driver and view the schedule.</li>
@@ -68,23 +68,12 @@ After three months of intensive product discovery we laid down the refined custo
 <li>Ability to get an alternate on demand driver for the entire group.</li>
 <li>Ability to cancel the trip and not be charged if the usual driver is not available.</li>
 <li>Ability to request a new driver if the driver marks accept but does not show up.</li>
-<li>No fees are charged to users or drivers when they bid or counter offer. Only when a customer makes a payment and it is confirmed (IBFT will not be instant) by Bykea’s admin will trigger a charge of the commission to the driver. A driver who does not have enough balance in their wallet need to be told to deposit money to be able to have enough money to accept 4 passengers and pay Bykea the 13% commission in advance.</li> 
 <li>We needed to build the capability for the driver to send money to Bykea via IBFT as well, similar to how are for the customer.</li>
 </ul>
 
 And of course, there will be an Urdu version of this.
 
 ## Information Architecture, Key Features & Visual Design
-
-Our observation was other apps have split the solicitation process into segments and provided a plethora of features. 
-
-<ul>
-<li>Separate screens for pickup, dropoff, timings, payment</li>
-<li>Instructions for drivers</li> 
-<li>Enabling live location and notifications</li>
-<li>Extra luggage</li> 
-<li>Tipping</li>
-</ul>
 
 We were aware of developing a service from scratch and agreed to a boilerplate MVP and any additional features will be considered in the second phase. After intense feedback from stakeholders, the final carpool lead generation screen was designed.
 
