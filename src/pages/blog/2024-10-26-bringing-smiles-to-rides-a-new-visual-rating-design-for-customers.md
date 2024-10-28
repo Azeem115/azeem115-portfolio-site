@@ -9,6 +9,8 @@ featuredimage: /img/customer-rating-1.png
 
 In the first quarter of 2024, it was revealed that 60% of the reason for low rating by customers was that they assigned it "by mistake". It was discovered that most of the customers did not understand the rating mechanism and would randomly press any button. Furthermore, there was a need to educate them on proper usage as poor ratings presented potential risks. Bykea takes pride on its efficient customer service it has been lauded by customers and partners as the standalone core component in its stability and growth and standing out from competitors.
 
+![](/img/1-star-data.png)
+
 ## the solution
 
 After discussions with key stakeholders, it was discovered that the current rating star-rating system was de-humanizing and did not value the customers. We wanted to keep seeing this rating data evolve and brainstormed ideas into replacing the starts with other visuals to enhance the rating experience into more human-centered. We simmered it down to two solutions.
